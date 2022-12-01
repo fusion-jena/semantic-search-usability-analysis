@@ -11,4 +11,4 @@ For our evaluation, we utilized various applications and scripts for the downloa
 
 ## Prerequisites
 
-All JAVA code has been implemented with JAVA 1.8. All Python scripts were developed with Python 3.8
+All JAVA code has been implemented with JAVA 1.8 and Maven > 3.8. All Python scripts were developed with Python 3.8
