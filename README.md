@@ -18,7 +18,7 @@ jupyter notebook
 
 ## Data
 
-primary data available at Zenodo <ToDo>
+primary data available at Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388038.svg)](https://doi.org/10.5281/zenodo.7388038)
 
 ## License
 
