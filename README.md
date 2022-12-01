@@ -14,7 +14,7 @@ Following the TREC guidelines (https://www-nlpir.nist.gov/projects/t9i/spec.html
   * analysis/results16  contains the results for 16 users
   * analysis/results20  contains the results for 20 users
   * scripts to generate the complied csv and further instructions are available under analysis/preprocessing
-* data_corpus_preparation provides various small applications for the preparation and setup of the search index
+* [data_corpus_preparation](https://github.com/fusion-jena/semantic-search-usability-analysis/tree/main/data_corpus_preparation) provides various small applications for the preparation and setup of the search index
 
 ## Prerequites
 
