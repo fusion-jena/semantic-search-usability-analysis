@@ -1,3 +1,0 @@
-Bexis: http://localhost:8080/mimir-cloud-6.0-SNAPSHOT/2248ec2e-b5fd-40df-a3ac-2bdc2e9873e2
-GFBio: http://gfbio-git.inf-bb.uni-jena.de/mimir/ac0933f9-27ec-43da-854a-42465860c6ae
-c103972a-a7f7-4e76-875c-9b6fcf42a106/
