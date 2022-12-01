@@ -14,6 +14,7 @@ Following the TREC guidelines (https://www-nlpir.nist.gov/projects/t9i/spec.html
   * analysis/results16  contains the results for 16 users
   * analysis/results20  contains the results for 20 users
   * scripts to generate the complied csv and further instructions are available under analysis/preprocessing
+* data_corpus_preparation provides various small applications for the preparation and setup of the search index
 
 ## Prerequites
 
@@ -31,5 +32,8 @@ The survey templates and the original survey results are available at Zenodo: [!
 ## License
 
 The code in this project is distributed under the terms of the [GNU LGPL v3.0.](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+
+## Publication
+Further information on this study can be obtained from our publication: XXX
 
 
