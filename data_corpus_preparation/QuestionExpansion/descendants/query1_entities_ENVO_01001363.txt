@@ -1,0 +1,7 @@
+label
+volume of hydrological precipitation
+precipitation
+precipitation level
+precipitation quantity
+Niederschlagsmenge
+precipitation amount

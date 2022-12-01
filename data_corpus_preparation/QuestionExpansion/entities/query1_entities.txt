@@ -1,0 +1,6 @@
+<http://purl.obolibrary.org/obo/PPO_0002000>
+<http://purl.obolibrary.org/obo/TO_0000387>
+<http://purl.obolibrary.org/obo/ENVO_01001363>
+<http://purl.obolibrary.org/obo/OBI_0600034>
+<http://purl.obolibrary.org/obo/REX_0000182>
+<http://purl.obolibrary.org/obo/ECOCORE_00000139>

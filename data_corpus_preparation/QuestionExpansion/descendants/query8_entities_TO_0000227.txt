@@ -1,0 +1,22 @@
+label
+root length
+root epidermis cell length
+penetrated root length
+relative root length
+seminal root length
+lateral root length
+root hair length
+adventitious root length
+tuberous root tuber diameter
+MRD
+MRL
+RTLG
+maximum root depth
+maximum root length
+RTEPCELLG
+PENRTLG
+RELRTLG
+RTHLG
+RTHRLG
+root tuber diameter
+storage root diameter

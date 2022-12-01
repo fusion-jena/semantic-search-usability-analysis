@@ -1,0 +1,34 @@
+label
+concentration of
+concentrated
+diluted
+acidity
+osmolarity
+catalytic (activity) concentration
+osmolality
+increased concentration
+decreased concentration
+normal concentration
+compound acidity
+medium acidity
+decreased acidity
+increased acidity
+normal acidity
+decreased osmolarity
+increased osmolarity
+normal osmolarity
+decreased osmolality
+increased osmolality
+normal osmolality
+acidic
+alkaline
+concentration
+pH
+high concentration
+low concentration
+low acidity
+high acidity
+low osmolarity
+high osmolarity
+low osmolality
+high osmolality

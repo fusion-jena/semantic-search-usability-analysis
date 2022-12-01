@@ -1,0 +1,1302 @@
+label
+Thysanoptera
+unclassified Thysanoptera
+Terebrantia
+Tubulifera
+Thysanoptera sp. BOLD:AAQ0553
+Thysanoptera sp. BOLD:ABX7554
+Thysanoptera sp. BOLD:ACB8580
+Thysanoptera sp. BOLD:ACC8015
+Thysanoptera sp. BOLD:ACC9186
+Thysanoptera sp. BOLD:ACC8198
+Thysanoptera sp. JGP0988
+Thysanoptera sp. JGP0989
+Thysanoptera sp. JGP0990
+Thysanoptera sp. JGP0991
+Thysanoptera sp. JGP0992
+Thysanoptera sp. JGP0994
+Thysanoptera sp. JGP1001
+Thysanoptera sp. JGP1002
+Thysanoptera sp. JGP1003
+Thysanoptera sp. JGP1004
+Thysanoptera sp. JGP1005
+Thysanoptera sp. JGP1006
+Thysanoptera sp. JGP1007
+Thysanoptera sp. JGP1008
+Thysanoptera sp. JGP1009
+Thysanoptera sp. JGP1010
+Thysanoptera sp. JGP1011
+Thysanoptera sp. JGP1012
+Thysanoptera sp. JGP1014
+Thysanoptera sp. JGP1015
+Thysanoptera sp. JGP1016
+Thysanoptera sp. JGP1017
+Thysanoptera sp. JGP1018
+Thysanoptera sp. JGP1019
+Thysanoptera sp. JGP1020
+Thysanoptera sp. NZAC 03010494
+Thysanoptera sp. NZAC 03011502
+Thysanoptera sp. NZAC 03011607
+Thysanoptera sp. NZAC 03013480
+Thysanoptera sp. NZAC 03013529
+Thysanoptera sp. NZAC 03013649
+Thysanoptera sp. BOLD:ACC0469
+Thysanoptera sp. BOLD:ACC0470
+Thysanoptera sp. BOLD:ACC3563
+Thysanoptera sp. BOLD:ACC4214
+Thysanoptera sp. BOLD:ACC4263
+Thysanoptera sp. BOLD:ACC7855
+Thysanoptera sp. BOLD:ACC8193
+Thysanoptera sp. BOLD:ACE1455
+Thysanoptera sp. BOLD:ACF9626
+Thysanoptera sp. BOLD:ACG5643
+Thysanoptera sp. BOLD:ACG5644
+Thysanoptera sp. BOLD:ACI3451
+Thysanoptera sp. BOLD:ACI5832
+Thysanoptera sp. BOLD:ACI8850
+Thysanoptera sp. BOLD:ACJ5221
+Thysanoptera sp. BOLD:ACK2804
+Thysanoptera sp. BOLD:ACK4248
+Thysanoptera sp. BOLD:ACL2662
+Thysanoptera sp. MATHR147-10
+Thysanoptera sp. MATHR384-12
+Thysanoptera sp. MATHR395-12
+Thysanoptera sp. MATHR405-12
+Thysanoptera sp. MATHR409-12
+Thysanoptera sp. MATHR410-12
+Thysanoptera sp. MATHR419-12
+Thysanoptera sp. MATHR428-12
+Thysanoptera sp. MATHR435-12
+Thysanoptera sp. BOLD:ACW5005
+Thysanoptera sp. BOLD:AAD4600
+Thysanoptera sp. BOLD:ABA2206
+Thysanoptera sp. BOLD:ABA2981
+Thysanoptera sp. BOLD:ACA6193
+Thysanoptera sp. BOLD:ACC4215
+Thysanoptera sp. BOLD:ACC4216
+Thysanoptera sp. BOLD:ACE2759
+Thysanoptera sp. BOLD:ACF7004
+Thysanoptera sp. BOLD:ACI7828
+Thysanoptera sp. BOLD:ACI8218
+Thysanoptera sp. BOLD:ACJ0745
+Thysanoptera sp. BOLD:ACJ0746
+Thysanoptera sp. BOLD:ACJ0747
+Thysanoptera sp. BOLD:ACJ0837
+Thysanoptera sp. BOLD:ACJ0946
+Thysanoptera sp. BOLD:ACJ2048
+Thysanoptera sp. BOLD:ACK1611
+Thysanoptera sp. BOLD:ACK6170
+Thysanoptera sp. BOLD:ACM8347
+Thysanoptera sp. BOLD:ACN0967
+Thysanoptera sp. BOLD:ACN4308
+Thysanoptera sp. BOLD:ACN4309
+Thysanoptera sp. BOLD:ACN7135
+Thysanoptera sp. BOLD:ACN7550
+Thysanoptera sp. BOLD:ACN7864
+Thysanoptera sp. BOLD:ACN9065
+Thysanoptera sp. BOLD:ACO2047
+Thysanoptera sp. BOLD:ACO2141
+Thysanoptera sp. BOLD:ACO2191
+Thysanoptera sp. BOLD:ACP2505
+Thysanoptera sp. BOLD:ACQ9293
+Thysanoptera sp. BOLD:ACR5151
+Thysanoptera sp. BOLD:ACR7165
+Thysanoptera sp. BOLD:ACR7544
+Thysanoptera sp. BOLD:ACT6313
+Thysanoptera sp. BOLD:ACV4301
+Thysanoptera sp. NZAC03010356
+Thysanoptera sp. NZAC03011396
+Thysanoptera sp. NZAC03013346
+Thysanoptera sp. OR-2016
+Thysanoptera sp. sc_07245
+Thysanoptera sp. sc_07315
+Thysanoptera sp. sc_07834
+Thysanoptera sp. sc_07851
+Thysanoptera sp. sc_07991
+Thysanoptera sp. sc_07992
+Thysanoptera sp. sc_08210
+Thysanoptera sp. sc_08220
+Thysanoptera sp. SB-2016
+Thysanoptera sp. BOLD:AAG0732
+Thysanoptera sp. BOLD:AAM5624
+Thysanoptera sp. BOLD:AAM8055
+Thysanoptera sp. BOLD:AAM8058
+Thysanoptera sp. BOLD:AAM8062
+Thysanoptera sp. BOLD:AAM8067
+Thysanoptera sp. BOLD:AAM8078
+Thysanoptera sp. BOLD:AAM8081
+Thysanoptera sp. BOLD:AAM8082
+Thysanoptera sp. BOLD:AAM8086
+Thysanoptera sp. BOLD:AAM8087
+Thysanoptera sp. BOLD:AAM8088
+Thysanoptera sp. BOLD:AAM8094
+Thysanoptera sp. BOLD:AAB3871
+Thysanoptera sp. BOLD:AAC9748
+Thysanoptera sp. BOLD:AAG0733
+Thysanoptera sp. BOLD:AAG0734
+Thysanoptera sp. BOLD:AAG0736
+Thysanoptera sp. BOLD:AAI0410
+Thysanoptera sp. BOLD:AAK1804
+Thysanoptera sp. BOLD:AAL2817
+Thysanoptera sp. BOLD:AAL2827
+Thysanoptera sp. BOLD:AAM5263
+Thysanoptera sp. BOLD:AAM5264
+Thysanoptera sp. BOLD:AAM5625
+Thysanoptera sp. BOLD:AAM7855
+Thysanoptera sp. BOLD:AAM7856
+Thysanoptera sp. BOLD:AAM8053
+Thysanoptera sp. BOLD:AAM8095
+Thysanoptera sp. BOLD:AAN2747
+Thysanoptera sp. BOLD:AAN4974
+Thysanoptera sp. BOLD:AAN4975
+Thysanoptera sp. BOLD:AAN4976
+Thysanoptera sp. BOLD:AAN4977
+Thysanoptera sp. BOLD:AAN4978
+Thysanoptera sp. BOLD:AAN4979
+Thysanoptera sp. BOLD:AAN5065
+Thysanoptera sp. BOLD:AAN5419
+Thysanoptera sp. BOLD:AAN5420
+Thysanoptera sp. BOLD:AAN5421
+Thysanoptera sp. BOLD:AAN5422
+Thysanoptera sp. BOLD:AAN5423
+Thysanoptera sp. BOLD:AAN5709
+Thysanoptera sp. BOLD:AAN5710
+Thysanoptera sp. BOLD:AAN5711
+Thysanoptera sp. BOLD:AAN5712
+Thysanoptera sp. BOLD:AAN5713
+Thysanoptera sp. BOLD:AAN5714
+Thysanoptera sp. BOLD:AAN5715
+Thysanoptera sp. BOLD:AAN5797
+Thysanoptera sp. BOLD:AAN6619
+Thysanoptera sp. BOLD:AAN6620
+Thysanoptera sp. BOLD:AAN6621
+Thysanoptera sp. BOLD:AAN6623
+Thysanoptera sp. BOLD:AAN6624
+Thysanoptera sp. BOLD:AAN6625
+Thysanoptera sp. BOLD:AAN6626
+Thysanoptera sp. BOLD:AAN9104
+Thysanoptera sp. BOLD:AAN9105
+Thysanoptera sp. BOLD:AAN9106
+Thysanoptera sp. BOLD:AAN9107
+Thysanoptera sp. BOLD:AAN9108
+Thysanoptera sp. BOLD:AAN9109
+Thysanoptera sp. BOLD:AAN9110
+Thysanoptera sp. BOLD:AAN9111
+Thysanoptera sp. BOLD:AAN9375
+Thysanoptera sp. BOLD:AAN9376
+Thysanoptera sp. BOLD:AAN9377
+Thysanoptera sp. BOLD:AAN9378
+Thysanoptera sp. BOLD:AAN9379
+Thysanoptera sp. BOLD:AAE5223
+Thysanoptera sp. BOLD:AAG0728
+Thysanoptera sp. BOLD:AAI0797
+Thysanoptera sp. BOLD:AAM7857
+Thysanoptera sp. BOLD:AAM8051
+Thysanoptera sp. BOLD:AAM8052
+Thysanoptera sp. BOLD:AAM8056
+Thysanoptera sp. BOLD:AAM8057
+Thysanoptera sp. BOLD:AAM8059
+Thysanoptera sp. BOLD:AAM8060
+Thysanoptera sp. BOLD:AAM8061
+Thysanoptera sp. BOLD:AAM8063
+Thysanoptera sp. BOLD:AAM8064
+Thysanoptera sp. BOLD:AAM8065
+Thysanoptera sp. BOLD:AAM8068
+Thysanoptera sp. BOLD:AAM8069
+Thysanoptera sp. BOLD:AAM8071
+Thysanoptera sp. BOLD:AAM8072
+Thysanoptera sp. BOLD:AAM8073
+Thysanoptera sp. BOLD:AAM8074
+Thysanoptera sp. BOLD:AAM8075
+Thysanoptera sp. BOLD:AAM8076
+Thysanoptera sp. BOLD:AAM8077
+Thysanoptera sp. BOLD:AAM8080
+Thysanoptera sp. BOLD:AAM8083
+Thysanoptera sp. BOLD:AAM8084
+Thysanoptera sp. BOLD:AAM8085
+Thysanoptera sp. BOLD:AAM8089
+Thysanoptera sp. BOLD:AAM8092
+Thysanoptera sp. BOLD:AAM8093
+Thysanoptera sp. BOLD:AAM9664
+Thripoidea
+Aeolothripoidea
+unclassified Terebrantia
+unclassified Tubulifera
+Phlaeothripoidea
+Merothrips
+Thripidae
+Heterothripidae
+Melanthripidae
+Aeolothripidae
+Stenurothripidae
+Terebrantia sp. AK-2015
+Terebrantia sp. B1920
+Tubulifera sp. B1808
+Phlaeothripidae
+Merothrips floridensis
+Thripinae
+Panchaetothripinae
+Sericothripinae
+unclassified Thripidae
+Dendrothripinae
+Heterothrips
+Ankothrips
+Melanthrips
+Cranothrips
+Dorythrips
+Aeolothrips
+Franklinothrips
+Cycadothrips
+Dactuliothrips
+Desmothrips
+Orothrips
+Aduncothrips
+Mymarothrips
+unclassified Aeolothripidae
+Rhipidothrips
+Holarthrothrips
+Phlaeothripinae
+Idolothripinae
+unclassified Phlaeothripidae
+Megalurothrips
+Lefroyothrips
+Thrips
+Arorathrips
+Odontothrips
+Stenchaetothrips
+Kakothrips
+Anaphothrips
+Frankliniella
+Scolothrips
+Anascirtothrips
+Aptinothrips
+Ayyaria
+Caprithrips
+Nesothrips
+Pezothrips
+Pseudanaphothrips
+Tenothrips
+Chirothrips
+Parabaliothrips
+Palmiothrips
+Scirtothrips
+Dichromothrips
+Mycterothrips
+unclassified Thripinae
+Echinothrips
+Limothrips
+Bathrips
+Taeniothrips
+Heliothrips
+Moundinothrips
+Ctenothrips
+Chaetanaphothrips
+Dendrothripoides
+Oxythrips
+Microcephalothrips
+Synaptothrips
+Fulmekiola
+Dictyothrips
+Ceratothripoides
+Ceratothrips
+Sciothrips
+Caliothrips
+Australothrips
+Phibalothrips
+Hercinothrips
+Parthenothrips
+unclassified Panchaetothripinae
+Helionothrips
+Rhipiphorothrips
+Selenothrips
+Sericothrips
+Hydatothrips
+Neohydatothrips
+Astrothrips
+Biltothrips
+Sussericothrips
+Thripidae sp. BOLD:ACI6059
+Thripidae sp. BOLD:ACK6998
+Thripidae sp. BOLD:ACB0898
+Thripidae sp. BOLD:ACF2900
+Thripidae sp. BOLD:ABW5634
+Thripidae sp. BOLD:ACC0282
+Thripidae sp. BOLD:ACC0370
+Thripidae sp. BOLD:ACC0794
+Thripidae sp. BOLD:ACC2566
+Thripidae sp. BOLD:ACC4393
+Thripidae sp. BOLD:ACC5501
+Thripidae sp. BOLD:ACC5502
+Thripidae sp. BOLD:ACC5640
+Thripidae sp. BOLD:ACC7311
+Thripidae sp. BOLD:ACE1928
+Thripidae sp. BOLD:ACE2712
+Thripidae sp. BOLD:ACF6976
+Thripidae sp. BOLD:ACF7004
+Thripidae sp. BOLD:ACF7831
+Thripidae sp. BOLD:ACF8166
+Thripidae sp. BOLD:ACF9288
+Thripidae sp. BOLD:ACF9433
+Thripidae sp. BOLD:ACF9434
+Thripidae sp. BOLD:ACG1119
+Thripidae sp. BOLD:ACG1242
+Thripidae sp. BOLD:ACG2439
+Thripidae sp. BOLD:ACG4801
+Thripidae sp. BOLD:ACG5018
+Thripidae sp. BOLD:ACG5642
+Thripidae sp. BOLD:ACG5645
+Thripidae sp. BOLD:ACG5992
+Thripidae sp. BOLD:ACG6102
+Thripidae sp. BOLD:ACI3917
+Thripidae sp. BOLD:ACI4482
+Thripidae sp. BOLD:ACI5056
+Thripidae sp. BOLD:ACI6268
+Thripidae sp. BOLD:ACI6473
+Thripidae sp. BOLD:ACI7576
+Thripidae sp. BOLD:ACJ3153
+Thripidae sp. BOLD:ACJ5201
+Thripidae sp. BOLD:ACJ7537
+Thripidae sp. BOLD:ACK4367
+Thripidae sp. BOLD:ACK8820
+Thripidae sp. BOLD:ACL2814
+Thripidae sp. BOLD:ACN8216
+Thripidae sp. BOLD:ACN8291
+Thripidae sp. BOLD:AAP7681
+Thripidae sp. BOLD:ACA3048
+Thripidae sp. MATHR167-10
+Thripidae sp. MATHR169-10
+Thripidae sp. MATHR309-11
+Thripidae sp. MATHR310-11
+Thripidae sp. BOLD:ACP4916
+Thripidae sp. BOLD:ACV3023
+Thripidae sp. BOLD:ACV4199
+Thripidae sp. BOLD:AAG0728
+Thripidae sp. BOLD:AAG0729
+Thripidae sp. BOLD:AAG0730
+Thripidae sp. BOLD:AAM5263
+Thripidae sp. BOLD:AAM5264
+Thripidae sp. BOLD:AAM7854
+Thripidae sp. BOLD:AAN5713
+Thripidae sp. BOLD:AAN5715
+Thripidae sp. BOLD:AAN9106
+Thripidae sp. BOLD:AAN9108
+Thripidae sp. BOLD:AAQ0558
+Thripidae sp. BOLD:ACB4865
+Thripidae sp. BOLD:ACC0651
+Thripidae sp. BOLD:ACC3563
+Thripidae sp. BOLD:ACC5486
+Thripidae sp. BOLD:ACC7855
+Thripidae sp. BOLD:ACD5332
+Thripidae sp. BOLD:ACF5982
+Thripidae sp. BOLD:ACF9145
+Thripidae sp. BOLD:ACI2703
+Thripidae sp. BOLD:ACI2906
+Thripidae sp. BOLD:ACI7875
+Thripidae sp. BOLD:ACJ0611
+Thripidae sp. BOLD:ACJ3270
+Thripidae sp. BOLD:ACK1611
+Thripidae sp. BOLD:ACL3529
+Thripidae sp. BOLD:ACN5322
+Thripidae sp. BOLD:ACS2619
+Thripidae sp. BOLD:AAN9107
+Thripidae sp. BOLD:ACK1321
+Thripidae sp. BOLD:ACK6589
+Thripidae sp. BOLD:ACM6374
+Thripidae sp. BOLD:ACN3885
+Thripidae sp. BOLD:ACO2191
+Thripidae sp. BOLD:ACV3625
+Thripidae sp. BOLD:ACV4301
+Thripidae sp. BOLD:ACV4482
+Thripidae sp. BOLD:ACL2662
+Thripidae sp. BOLD:ACN9065
+Thripidae sp. BOLD:ACT0859
+Thripidae sp. BOLD:ACT3180
+Thripidae sp. BOLD-2016
+Dendrothrips
+Pseudodendrothrips
+Heterothrips arisaemae
+Heterothrips salicis
+Heterothrips aesculi
+Ankothrips yuccae
+Melanthrips fuscus
+Cranothrips sp. TH20
+Dorythrips wallacei
+Aeolothrips duvali
+Aeolothrips intermedius
+Aeolothrips sp. BOLD:AAG0735
+Aeolothrips sp. BOLD:AAM5624
+Aeolothrips sp. BOLD:AAN9379
+Aeolothrips sp. BOLD:AAU0577
+Aeolothrips sp. BOLD:ABA2981
+Aeolothrips sp. BOLD:ACC8296
+Aeolothrips sp. BOLD:ACG6156
+Aeolothrips sp. PK01
+Aeolothrips sp. PK02
+Aeolothrips ericae
+Aeolothrips sp. BOLD:AAN9378
+Aeolothrips sp. BOLD:ACT1124
+Aeolothrips sp. BOLD:ACT3005
+Aeolothrips sp. BOLD:ACT4813
+Aeolothrips sp. CNWLN046-13
+Aeolothrips sp. BOLD-2016
+Aeolothrips albicinctus
+Aeolothrips fasciatus
+Aeolothrips melaleucus
+Franklinothrips orizabensis
+Franklinothrips megalops
+Franklinothrips vespiformis
+Cycadothrips chadwicki
+Cycadothrips albrechti
+Dactuliothrips boharti
+Dactuliothrips sp. TH15
+Dactuliothrips xerophilus
+Desmothrips propinquus
+Orothrips kelloggi
+Aduncothrips sp. BOLD:ACI5305
+Mymarothrips garuda
+Aeolothripidae sp. BOLD:ACB8580
+Aeolothripidae sp. BOLD:ACC0281
+Aeolothripidae sp. BOLD:ACC0650
+Aeolothripidae sp. BOLD:ACC0792
+Aeolothripidae sp. BOLD:ACM1798
+Aeolothripidae sp. BOLD:AAM5624
+Aeolothripidae sp. BOLD:AAU0577
+Aeolothripidae sp. BOLD:ACI7828
+Aeolothripidae sp. BOLD:ACJ0837
+Aeolothripidae sp. BOLD:ACT2597
+Aeolothripidae sp. BOLD:ACT3007
+Rhipidothrips gratiosus
+Holarthrothrips sp. TH48
+Koptothrips
+Mesothrips
+Stephanothrips
+Liothrips
+Ataliothrips
+Cartomothrips
+Dyothrips
+Holothrips
+Hoplandrothrips
+Leeuwenia
+Leptothrips
+Sacothrips
+Scopaeothrips
+Strepterothrips
+Teuchothrips
+Treherniella
+Adrothrips
+Baenothrips
+Heligmothrips
+Lissothrips
+Sophiothrips
+unclassified Phlaeothripinae
+Klambothrips
+Carcinothrips
+Dunatothrips
+Lichanothrips
+Panoplothrips
+Sartrithrips
+Gynaikothrips
+Haplothrips <genus>
+Pseudophilothrips
+Hoplothrips
+Dolichothrips
+Ananthakrishnana
+Apterygothrips
+Dactylothrips
+Kladothrips
+Rhopalothripoides
+Gigantothrips
+Cephalothrips
+Triadothrips
+Choleothrips
+Euoplothrips
+Eurynothrips
+Iotatubothrips
+Phallothrips
+Psalidothrips
+Thaumatothrips
+Tolmetothrips
+Zemiathrips
+Paracholeothrips
+Glaridothrips
+Vicinothrips
+Advenathrips
+Grypothrips
+Xaniothrips
+Domeothrips
+Warithrips
+Karnyothrips
+Plicothrips
+Neoheegeria
+Dolicholepta
+Meiothrips
+Bactrothrips
+Elaphrothrips
+Carientothrips
+Cryptothrips
+Macrothrips
+Phaulothrips
+Ophthalmothrips
+Bolothrips
+Allothrips
+Celidothrips
+Malesiathrips
+Idolothrips
+Phlaeothripidae sp. AD-2014
+Phlaeothripidae sp. BOLD:AAG0731
+Phlaeothripidae sp. BOLD:AAG0732
+Phlaeothripidae sp. BOLD:AAG0737
+Phlaeothripidae sp. BOLD:AAN8718
+Phlaeothripidae sp. BOLD:AAN8719
+Phlaeothripidae sp. BOLD:AAN8720
+Phlaeothripidae sp. BOLD:AAN8721
+Phlaeothripidae sp. BOLD:ABX2572
+Phlaeothripidae sp. BOLD:ABY3788
+Phlaeothripidae sp. BOLD:ACC4186
+Phlaeothripidae sp. BOLD:ACC4213
+Phlaeothripidae sp. BOLD:ACC4215
+Phlaeothripidae sp. BOLD:ACC4216
+Phlaeothripidae sp. BOLD:ACC4480
+Phlaeothripidae sp. BOLD:ACF6559
+Phlaeothripidae sp. BOLD:ACI4624
+Phlaeothripidae sp. BOLD:ACI6481
+Phlaeothripidae sp. BOLD:ACJ2048
+Phlaeothripidae sp. BOLD:ACJ5425
+Phlaeothripidae sp. BOLD:ACJ7265
+Phlaeothripidae sp. SSJAF5130-13
+Phlaeothripidae sp. SSWLD2523-13
+Phlaeothripidae sp. BOLD:ACK3864
+Phlaeothripidae sp. BOLD:ACA9557
+Phlaeothripidae sp. BOLD:AAB3613
+Phlaeothripidae sp. BOLD:AAG2812
+Phlaeothripidae sp. BOLD:AAI6861
+Phlaeothripidae sp. BOLD:ACC8995
+Phlaeothripidae sp. BOLD:ACF6974
+Phlaeothripidae sp. BOLD:ACI2803
+Phlaeothripidae sp. BOLD:ACI3029
+Phlaeothripidae sp. BOLD:ACI3329
+Phlaeothripidae sp. BOLD:ACI8945
+Phlaeothripidae sp. BOLD:ACI9972
+Phlaeothripidae sp. BOLD:ACJ0189
+Phlaeothripidae sp. BOLD:ACM4006
+Phlaeothripidae sp. BOLD:ACN6142
+Phlaeothripidae sp. BOLD:ACN7135
+Phlaeothripidae sp. BOLD:ACP7872
+Phlaeothripidae sp. BOLD:ACT1528
+Phlaeothripidae sp. BOLD:ACC8198
+Phlaeothripidae sp. BOLD:ACD8970
+Phlaeothripidae sp. BOLD:ACK3892
+Phlaeothripidae sp. BOLD:ACK6135
+Phlaeothripidae sp. BOLD:ACL2432
+Phlaeothripidae sp. BOLD:ACL2844
+Phlaeothripidae sp. BOLD:ACL3399
+Phlaeothripidae sp. BOLD:ACL4666
+Phlaeothripidae sp. BOLD:ACL6044
+Phlaeothripidae sp. BOLD:ACL7520
+Phlaeothripidae sp. BOLD:ACM0768
+Phlaeothripidae sp. BOLD:ACM1692
+Phlaeothripidae sp. BOLD:ACN0967
+Phlaeothripidae sp. BOLD:ACN5548
+Phlaeothripidae sp. BOLD:ACN8143
+Phlaeothripidae sp. BOLD:ACO2100
+Phlaeothripidae sp. BOLD:ACX8204
+Phlaeothripidae sp. CNGMI1289-14
+Phlaeothripidae sp. CNTNH1825-14
+Phlaeothripidae sp. BOLD:ACS7815
+Phlaeothripidae sp. BOLD:ACS9647
+Phlaeothripidae sp. BOLD:ACT1123
+Phlaeothripidae sp. BOLD:ACT3734
+Phlaeothripidae sp. sc_01056
+Phlaeothripidae sp. sc_04758
+Phlaeothripidae sp. sc_04771
+Phlaeothripidae sp. sc_05346
+Phlaeothripidae sp. sc_05347
+Phlaeothripidae sp. IWR-2002-1
+Phlaeothripidae sp. IWR-2002-2
+Megalurothrips distalis
+Megalurothrips sjostedti
+Megalurothrips sp. JCC-2013
+Megalurothrips peculiaris
+Megalurothrips usitatus
+Megalurothrips sp. 1 YF-2010
+Megalurothrips sp. 2 YF-2010
+Lefroyothrips lefroyi
+Thrips alatus
+Thrips sp. JRC-2012
+Thrips sp. PK-2012
+Thrips australis
+Thrips knoxi
+Thrips setipennis
+Thrips simplex
+Thrips parvispinus
+Thrips sp. BOLD:AAP7681
+Thrips florum
+Thrips formosanus
+Thrips orientalis
+Thrips imaginis
+Thrips roepkei
+Thrips angusticeps
+Thrips palmi
+Thrips tabaci
+Thrips hawaiiensis
+Thrips coloratus
+Thrips flavus
+Thrips setosus
+Thrips sp. BOLD:AAG0729
+Thrips sp. BOLD:AAG0736
+Thrips sp. BOLD:AAN9105
+Thrips sp. BOLD:AAN9108
+Thrips sp. BOLD:ACC5486
+Thrips sp. BOLD:ACF9432
+Thrips sp. BOLD:ACK8614
+Thrips sp. SSBAF4083-13
+Thrips sp. SSBAF4410-13
+Thrips vitticornis
+Thrips moundi
+Thrips sp. AK-2015
+Thrips sp. PK01
+Thrips carthami
+Thrips apicatus
+Thrips decens
+Thrips sp. BOLD:AAG0728
+Thrips sp. BOLD:AAN9104
+Thrips sp. BOLD:ACL3981
+Thrips sp. BOLD:ACT6313
+Thrips sp. BOLD:AAN9107
+Thrips sp. BOLD-2016
+Thrips nigropilosus
+Thrips alliorum
+Thrips trehernei
+Thrips obscuratus
+Thrips minutissimus
+Thrips vulgatissimus
+Thrips major
+Thrips validus
+Thrips urticae
+Thrips fuscipennis
+Thrips sambuci
+Thrips physapus
+Thrips andrewsi
+Thrips flavidulus
+Thrips sp. 1 YF-2010
+Thrips sp. 2 YF-2010
+Thrips sp. 3 YF-2010
+Arorathrips xanthius
+Arorathrips mexicanus
+Odontothrips meliloti
+Odontothrips ulicis
+Odontothrips loti
+Odontothrips biuncus
+Odontothrips ignobilis
+Stenchaetothrips biformis
+Stenchaetothrips spinulae
+Stenchaetothrips karnyianus
+Stenchaetothrips undatus
+Stenchaetothrips victoriensis
+Kakothrips pisivorus
+Kakothrips robustus
+Anaphothrips cecili
+Anaphothrips incertus
+Anaphothrips sudanensis
+Anaphothrips sp. BOLD:AAQ0558
+Anaphothrips obscurus
+Frankliniella australis
+Frankliniella sulphurea
+Frankliniella cf. schultzei/sulphurea TH130
+Frankliniella occidentalis
+Frankliniella williamsi
+Frankliniella sp. BOLD:AAN6620
+Frankliniella sp. BOLD:AAN4977
+Frankliniella tenuicornis
+Frankliniella pallida
+Frankliniella intonsa
+Frankliniella sp. BOLD:AAM5264
+Frankliniella sp. BOLD:ACC0793
+Frankliniella unicolor
+Frankliniella sp. MATHR335-11
+Frankliniella borinquen
+Frankliniella brunnea
+Frankliniella exigua
+Frankliniella gardeniae
+Frankliniella minor
+Frankliniella rostrata
+Frankliniella sp. BOLD:AAL2817
+Frankliniella sp. BOLD:AAM7855
+Frankliniella fortissima
+Frankliniella sp. BOLD-2016
+Frankliniella sp. DBP-2015
+Frankliniella sp. KY-2004
+Frankliniella bispinosa
+Frankliniella cephalica
+Frankliniella fusca
+Frankliniella schultzei
+Frankliniella tritici
+Frankliniella aztecus
+Frankliniella citripes
+Frankliniella insularis
+Frankliniella minuta
+Frankliniella panamensis
+Frankliniella sp. 1 YF-2010
+Scolothrips rhagebianus
+Scolothrips takahashii
+Anascirtothrips arorai
+Aptinothrips rufus
+Aptinothrips elegans
+Aptinothrips karnyi
+Aptinothrips stylifer
+Aptinothrips sp. BOLD:ACG1120
+Aptinothrips sp. BOLD:ACG6102
+Aptinothrips sp. BOLD:ACI7615
+Aptinothrips sp. BOLD:ACK6136
+Aptinothrips sp. BOLD:AAU0618
+Ayyaria chaetophora
+Caprithrips moundi
+Nesothrips propinquus
+Pezothrips kellyanus
+Pseudanaphothrips achaetus
+Pseudanaphothrips araucariae
+Tenothrips frici
+Chirothrips sp. TH82
+Chirothrips sp. BOLD-2016
+Chirothrips meridionalis
+Chirothrips manicatus
+Parabaliothrips sp. TH68
+Parabaliothrips coluckus
+Palmiothrips sp. TH65
+Scirtothrips sp. IM-2013
+Scirtothrips aff. dorsalis AMD-2014
+Scirtothrips dorsalis
+Scirtothrips sp. BOLD:ACV3625
+Scirtothrips sp. BOLD:ACV4056
+Scirtothrips sp. n. DBP-2015
+Scirtothrips silvicola
+Scirtothrips zacualtipanensis
+Scirtothrips sp. BOLD:ACD0385
+Scirtothrips sp. BOLD:ACT6175
+Scirtothrips sp. BOLD:ACT7371
+Scirtothrips sp. BOLD:ACV4301
+Scirtothrips sp. BOLD-2016
+Scirtothrips sp. WZ-2016
+Scirtothrips aurantii
+Scirtothrips perseae
+Scirtothrips aceri
+Scirtothrips astrictus
+Scirtothrips bounites
+Scirtothrips citri
+Scirtothrips drepanofortis
+Scirtothrips frondis
+Scirtothrips inermis
+Scirtothrips kenyensis
+Scirtothrips oligochaetus
+Scirtothrips pan
+Scirtothrips aff. dobroskyi RS-2005
+Scirtothrips n. sp. RS-2005
+Scirtothrips moneres
+Scirtothrips n. sp. 1 PFRJ-2007
+Scirtothrips n. sp. 2 PFRJ-2007
+Scirtothrips aff. dobroskyi PFRJ-2007
+Scirtothrips aff. dorsalis PFRJ-2007
+Scirtothrips aff. helenae PFRJ-2007
+Scirtothrips dobroskyi
+Dichromothrips smithi
+Mycterothrips sp. BOLD:AAP7685
+Mycterothrips nilgiriensis
+Mycterothrips glycines
+Thripinae sp. BOLD:ACI5207
+Thripinae sp. BOLD:AAG0730
+Thripinae sp. BOLD:AAG0738
+Thripinae sp. BOLD:AAL2817
+Thripinae sp. BOLD:AAM7854
+Thripinae sp. BOLD:AAM8095
+Thripinae sp. BOLD:AAN5713
+Thripinae sp. BOLD:AAN5714
+Thripinae sp. BOLD:AAN9106
+Thripinae sp. BOLD:ACC8014
+Thripinae sp. BOLD:ACD5332
+Thripinae sp. BOLD:ACG2196
+Thripinae sp. BOLD:ACN3019
+Thripinae sp. BOLD:ACN8216
+Thripinae sp. CNWLL224-13
+Thripinae sp. SSBAF4075-13
+Thripinae sp. SSJAC1776-13
+Thripinae sp. SSWLA2237-13
+Thripinae sp. BOLD:AAD4600
+Thripinae sp. BOLD:AAG2810
+Thripinae sp. BOLD:AAI0410
+Thripinae sp. CNFNE468-14
+Thripinae sp. CNFNQ497-14
+Thripinae sp. CNFNR3822-14
+Thripinae sp. CNLMA500-14
+Thripinae sp. BOLD:ACG5644
+Thripinae sp. BOLD:ACG5645
+Thripinae sp. BOLD-2016
+Echinothrips americanus
+Echinothrips sp. IWM-2003
+Limothrips sp. BOLD:AAG0733
+Limothrips cerealium
+Limothrips denticornis
+Bathrips melanicornis
+Taeniothrips sp. n. VK-2014
+Taeniothrips picipes
+Taeniothrips sp. BOLD:AAN9106
+Taeniothrips sp. CNRVA2364-15
+Taeniothrips eucharii
+Taeniothrips orionis
+Taeniothrips inconsequens
+Taeniothrips major
+Taeniothrips sp. 1 YF-2010
+Taeniothrips sp. 2 YF-2010
+Heliothrips sylvanus
+Heliothrips haemorrhoidalis
+Moundinothrips robustus
+Ctenothrips bridwelli
+Chaetanaphothrips orchidii
+Dendrothripoides innoxius
+Oxythrips sp. BOLD-2016
+Oxythrips ajugae
+Microcephalothrips abdominalis
+Synaptothrips psoraleae
+Fulmekiola serrata
+Dictyothrips betae
+Ceratothripoides brunneus
+Ceratothrips ericae
+Sciothrips cardamomi
+Caliothrips fasciatus
+Caliothrips striatopterus
+Caliothrips sp. TH62
+Caliothrips phaseoli
+Caliothrips marginipennis
+Caliothrips sp. BOLD:ACL4397
+Australothrips bicolor
+Phibalothrips sp. TH61
+Hercinothrips femoralis
+Parthenothrips dracaenae
+Panchaetothripinae sp. BOLD-2016
+Helionothrips spinosus
+Rhipiphorothrips cruentatus
+Rhipiphorothrips pulchellus
+Selenothrips rubrocinctus
+Sericothrips houji
+Sericothrips staphylinus
+Hydatothrips argenticinctus
+Hydatothrips atactus
+Hydatothrips aureus
+Hydatothrips kassimianus
+Hydatothrips adolfifriderici
+Neohydatothrips annulipes
+Neohydatothrips samayunkur
+Neohydatothrips signifer
+Neohydatothrips sp. BOLD-2016
+Neohydatothrips burungae
+Neohydatothrips geminus
+Neohydatothrips variabilis
+Astrothrips tumiceps
+Biltothrips minutus
+Sussericothrips melilotus
+Dendrothrips minowai
+Dendrothrips sp. TH63
+Dendrothrips eremicola
+Dendrothrips diaspora
+Dendrothrips degeeri
+Pseudodendrothrips mori
+Pseudodendrothrips bhattii
+Koptothrips dyskritus
+Koptothrips zelus
+Koptothrips xenus
+Koptothrips sp. DM467
+Koptothrips flavicornis
+Mesothrips jordani
+Mesothrips crenulatus
+Stephanothrips japonicus
+Liothrips sp. LD-2012
+Liothrips infrequens
+Liothrips crassipes
+Liothrips tractabilis
+Liothrips perseae
+Ataliothrips reuteri
+Cartomothrips browni
+Cartomothrips neboissi
+Dyothrips pallescens
+Holothrips cracens
+Holothrips sp. TH50
+Holothrips sp. TH93
+Hoplandrothrips quadriconus
+Hoplandrothrips sp. n. TH59
+Leeuwenia scolopiae
+Leeuwenia ananthakrishnani
+Leeuwenia tetrastigmae
+Leptothrips mali
+Leptothrips sp. TH99
+Leptothrips sp. BOLD:AAU6356
+Leptothrips sp. BOLD-2016
+Sacothrips catheter
+Sacothrips sp. TH26
+Sacothrips corycidis
+Scopaeothrips bicolor
+Strepterothrips tuberculatus
+Teuchothrips ater
+Teuchothrips disjunctus
+Teuchothrips sp. TespPH
+Treherniella amplipennis
+Adrothrips sp. TH125
+Baenothrips sp. TH58
+Baenothrips caenosus
+Heligmothrips sp. TH123
+Lissothrips sp. TH56
+Sophiothrips sp. TH54
+Haplothripini gen. sp. LHD-2013
+Phlaeothripinae sp. BOLD:AAG0732
+Phlaeothripinae sp. BOLD:ACN3155
+Phlaeothripinae sp. BOLD-2016
+Klambothrips myopori
+Klambothrips oleariae
+Klambothrips sp. SLC-2013
+Carcinothrips leai
+Dunatothrips aneurae
+Dunatothrips armatus
+Dunatothrips aulidis
+Dunatothrips skene
+Dunatothrips vestitor
+Lichanothrips magnificus
+Lichanothrips pulchra
+Panoplothrips australiensis
+Sartrithrips luctator
+Sartrithrips mars
+Sartrithrips popinator
+Sartrithrips vesper
+Gynaikothrips uzeli
+Gynaikothrips sp. BOLD:ACI5429
+Gynaikothrips bengalensis
+Gynaikothrips sp. DM278
+Gynaikothrips ficorum
+Haplothrips <subgenus>
+unclassified Haplothrips
+Trybomiella
+Pseudophilothrips sp. BOLD:ACB2598
+Pseudophilothrips sp. BOLD:ACI7716
+Pseudophilothrips sp. BOLD:ACJ0189
+Pseudophilothrips sp. BOLD:ACJ7088
+Pseudophilothrips sp. BOLD-2016
+Pseudophilothrips ichini
+Pseudophilothrips sp. DAW-2010
+Hoplothrips sp. BOLD:ACK4677
+Hoplothrips japonicus
+Hoplothrips sp. BOLD:ABA2849
+Hoplothrips sp. BOLD-2016
+Hoplothrips karnyi
+Dolichothrips chikakoae
+Dolichothrips longicollis
+Dolichothrips utae
+Dolichothrips eriae
+Dolichothrips sp. H AK-2015
+Dolichothrips fialae A AK-2015
+Dolichothrips fialae B AK-2015
+Dolichothrips sp. G AK-2015
+Dolichothrips reuteri
+Ananthakrishnana euphorbiae
+Apterygothrips pellucidus
+Apterygothrips australis
+Dactylothrips sp. 448
+Dactylothrips sp. 496
+Kladothrips maslini
+Kladothrips xiphius
+Kladothrips schwarzi
+Kladothrips zygus
+Kladothrips nicolsoni
+Kladothrips intermedius
+Kladothrips cf. rugosus agg.1
+Kladothrips cf. rugosus agg.2
+Kladothrips cf. rugosus agg.3
+Kladothrips cf. rugosus agg.4
+Kladothrips cf. rugosus agg.5
+Kladothrips cf. rugosus agg.6
+Kladothrips cf. rugosus agg.7
+Kladothrips cf. rugosus agg.8
+Kladothrips cf. intermedius agg.1
+Kladothrips cf. intermedius agg.2
+Kladothrips cf. waterhousei agg.1
+Kladothrips cf. waterhousei agg.2
+Kladothrips cf. waterhousei agg.3
+Kladothrips cf. waterhousei agg.4
+Kladothrips cf. waterhousei agg.5
+Kladothrips cf. waterhousei agg.6
+Kladothrips cf. waterhousei agg.7
+Kladothrips cf. waterhousei agg.8
+Kladothrips cf. waterhousei agg.9
+Kladothrips cf. rugosus agg.15
+Kladothrips cf. rugosus agg.9
+Kladothrips cf. rugosus agg.10
+Kladothrips cf. rugosus agg.11
+Kladothrips cf. rugosus agg.12
+Kladothrips cf. rugosus agg.13
+Kladothrips cf. rugosus agg.14
+Kladothrips rodwayi
+Kladothrips acaciae
+Kladothrips augonsaxxos
+Kladothrips ellobus
+Kladothrips hamiltoni
+Kladothrips harpophyllae
+Kladothrips rugosus
+Kladothrips antennatus
+Kladothrips habrus
+Kladothrips morrisi
+Kladothrips sterni
+Kladothrips tepperi
+Kladothrips torus
+Kladothrips waterhousei
+Kladothrips arotrum
+Kladothrips pilbara
+Rhopalothripoides froggatti
+Gigantothrips elegans
+Cephalothrips sp. BOLD-2016
+Cephalothrips monilicornis
+Triadothrips briga
+Triadothrips sp. DM338
+Choleothrips geijerae
+Euoplothrips bagnalli
+Eurynothrips magnicollis
+Iotatubothrips crozieri
+Phallothrips houstoni
+Psalidothrips taylori
+Thaumatothrips froggatti
+Tolmetothrips smilacis
+Zemiathrips triseta
+Paracholeothrips sp. DM467b
+Paracholeothrips sp. DM426
+Paracholeothrips sp. DM424
+Glaridothrips sp. DM404
+Vicinothrips bullatus
+Advenathrips inquilinus
+Grypothrips sp. DM372
+Grypothrips sp. DM457
+Xaniothrips foederatus
+Xaniothrips xantes
+Xaniothrips mulga
+Domeothrips sp. DM411
+Warithrips sp. DM277
+Warithrips acaciae
+Karnyothrips sp. KM-2007
+Karnyothrips flavipes
+Plicothrips apicalis
+Neoheegeria dalmatica
+Dolicholepta micrura
+Meiothrips nepalensis
+Meiothrips sp. n. LD-2012
+Bactrothrips flectoventris
+Bactrothrips honoris
+Bactrothrips pictipes
+Bactrothrips quadrituberculatus
+Bactrothrips sp. n. 1 LD-2012
+Bactrothrips sp. n. 2 LD-2012
+Bactrothrips sp. TH90
+Bactrothrips sp. BOLD-2016
+Bactrothrips brevitubus
+Elaphrothrips sp. LD-2012
+Elaphrothrips curvipes
+Elaphrothrips tuberculatus
+Carientothrips mjobergi
+Carientothrips sp. TH91
+Carientothrips semirufus
+Cryptothrips amneius
+Macrothrips papuensis
+Phaulothrips inquilinus
+Phaulothrips kranzae
+Phaulothrips sp. TH94
+Ophthalmothrips sp. TH79
+Bolothrips sp. BOLD-2016
+Allothrips stannardi
+Celidothrips camelus
+Malesiathrips australis
+Idolothrips spectrum
+Sartrithrips popinator aprepta
+Sartrithrips popinator kempeana
+Sartrithrips popinator torulosa
+Haplothrips graminis
+Haplothrips victoriensis
+Haplothrips dianthinus
+Haplothrips jasionis
+Haplothrips tenuipennis
+Haplothrips andresi
+Haplothrips bagrolis
+Haplothrips gowdeyi
+Haplothrips verbasci
+Haplothrips aculeatus
+Haplothrips froggatti
+Haplothrips ganglbaueri
+Haplothrips reuteri
+Haplothrips flavicinctus
+Haplothrips globiceps
+Haplothrips kermanensis
+Haplothrips leucanthemi
+Haplothrips tritici
+Haplothrips cenchricola
+Haplothrips distinguendus
+Haplothrips subtilissimus
+Haplothrips statices
+Haplothrips setiger
+Haplothrips chinensis
+Haplothrips brevitubus
+Haplothrips sp. BOLD:AAN5799
+Haplothrips sp. BOLD:ACI5935
+Haplothrips sp. BOLD:AAG2812
+Haplothrips sp. PK01
+Haplothrips sp. 'ciliatus'
+Haplothrips sp. 'stylatus'
+Haplothrips sp. BOLD:AAI6861
+Haplothrips sp. CNBRP2073-14
+Haplothrips sp. CNBRP2074-14
+Haplothrips sp. CNBRP2075-14
+Haplothrips sp. CNBRP2078-14
+Haplothrips sp. CNBRR488-14
+Haplothrips sp. CNBRS293-14
+Haplothrips sp. CNFNS1481-14
+Haplothrips sp. CNPEE1874-14
+Haplothrips sp. CNPEO1321-14
+Haplothrips sp. CNPEP1287-14
+Haplothrips sp. RGG-2016
+Haplothrips sp. BOLD-2016
+Haplothrips sp. HSZ-2016
+Haplothrips clarisetis
+Haplothrips nigricornis
+thrips
+Terrebrantia
+Arthropoda sp. JGP0988
+Arthropoda sp. JGP0989
+Arthropoda sp. JGP0990
+Arthropoda sp. JGP0991
+Arthropoda sp. JGP0992
+Arthropoda sp. JGP0994
+Arthropoda sp. JGP1001
+Arthropoda sp. JGP1002
+Arthropoda sp. JGP1003
+Arthropoda sp. JGP1004
+Arthropoda sp. JGP1005
+Arthropoda sp. JGP1006
+Arthropoda sp. JGP1007
+Arthropoda sp. JGP1008
+Arthropoda sp. JGP1009
+Arthropoda sp. JGP1010
+Arthropoda sp. JGP1011
+Arthropoda sp. JGP1012
+Arthropoda sp. JGP1014
+Arthropoda sp. JGP1015
+Arthropoda sp. JGP1016
+Arthropoda sp. JGP1017
+Arthropoda sp. JGP1018
+Arthropoda sp. JGP1019
+Arthropoda sp. JGP1020
+Aeolothrips PK01
+Aeolothrips PK02
+Oncothrips
+Onychothrips
+Megalurothrips pecularis
+Physothrips peculiaris
+Isoneurothrips parvispinus
+Isoneurothrips orientalis
+Thrips PK01
+Taeniothrips alliorum
+Thrips fusca
+Chloethrips oryzae
+Thrips ulicis
+Thrips loti
+Thrips karnyianus
+Thrips victoriensis
+Physopus robusta
+Anaphothrips obscura
+Euthrips occidentalis
+Frankliniella brunnescens
+Frankliniella californica
+Frankliniella occidentalis brunnescens
+Euthrips cephalica
+Euthrips fusca
+Frankliniella shultzei
+Frankliniella citrepes
+Scirtothrips auranti
+Scirtothrips kupandae
+Euthrips citri
+Anaphothrips oligochaetus
+Scirtothrips sp. nr. dobroskyi RS-2005
+Scirtothrips sp. nr. dobroskyi PFRJ-2007
+Scirtothrips sp. nr. dorsalis PFRJ-2007
+Scirtothrips sp. nr. helenae PFRJ-2007
+Rhopalandrothrips nilgiriensis
+Taeniothrips melanicornis
+Heliothrips haemorhoidalis
+Moundothrips robustus
+Euthrips orchidii
+Euthrips innoxius
+Thrips abdominalis
+Synaptothrips psorolae
+Amblythrips ericae
+Thrips ericae
+Hydatothrips houji
+Sericothrips melilotus
+Sericothrips kassimianus
+Sericothrips signifer
+Sericothrips minutus
+Mesothrips (Nagathrips) crenulatus
+Nagathrips crenulatus
+Gynaikothrips crassipes
+Compsothrips reuteri
+Leptothrips mcconnelli
+Liothrips mcconnelli
+Amphibolothrips caenosus
+Mesothrips uzeli
+Haplothrips (Haplothrips)
+Haplothrips (Trybomiella)
+Dolerothrips japonicus
+Dolichothrips chikakoe
+Haplothrips euphorbiae
+Oncothrips schwarzi
+Onychothrips zygus
+Oncothrips rodwayi
+Oncothrips antennatus
+Oncothrips habrus
+Oncothrips morrisi
+Oncothrips sterni
+Oncothrips tepperi
+Onychothrips tepperi
+Oncothrips torus
+Oncothrips waterhousei
+Onychothrips arotrum
+Onychothrips pilbara
+Eugynothrips smilacis
+Hindsiana apicalis
+Dolicolepta micrura
+Liothrips micrura
+Haplothrips (Haplothrips) aculeatus
+Haplothrips (Haplothrips) froggatti
+Haplothrips (Haplothrips) ganglbaueri
+Anthemothrips reuteri
+Haplothrips (Haplothrips) reuteri
+Haplothrips reyteri
+Haplothrips (Haplothrips) flavicinctus
+Haplothrips flavicinctis
+Hindsiana flavicinctus
+Haplothrips (Haplothrips) globiceps
+Haplothrips (Haplothrips) kermanensis
+Haplothrips (Haplothrips) leucanthemi
+Thrips leucanthemi
+Anthothrips tritici
+Haplothrips (Haplothrips) tritici
+Phloeothrips subtilissimus
+Phloeothrips statices
+Hindsiana brevitubus
+Haplothrips (Trybomiella) clarisetis
+Thysanoptera sp. NZAC03010494
+Thysanoptera sp. NZAC03011607
+Thysanoptera sp. NZAC03013649
+true thrips
+tree thrips
+predacious thrips
+Haplothrips
+bean blossom thrips
+plague thrips
+pea thrips
+western flower thrips
+avocado thrips
+grain thrips
+pear thrips
+oriental sugar cane thrips
+banded greenhouse thrips
+soybean thrips

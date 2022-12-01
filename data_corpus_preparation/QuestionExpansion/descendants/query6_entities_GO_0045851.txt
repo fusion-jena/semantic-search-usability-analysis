@@ -1,0 +1,20 @@
+label
+pH reduction
+intracellular pH reduction
+vacuolar acidification
+endosomal lumen acidification
+Golgi lumen acidification
+phagosome acidification
+synaptic vesicle lumen acidification
+lysosomal lumen acidification
+phagosome acidification involved in apoptotic cell clearance
+intracellular acidification
+acidification
+cell pH reduction
+cellular acidification
+reduction of cellular pH
+reduction of pH in cell
+phagosomal acidification
+synaptic vesicle lumen pH reduction
+synaptic vesicle proton loading
+lysosome pH reduction

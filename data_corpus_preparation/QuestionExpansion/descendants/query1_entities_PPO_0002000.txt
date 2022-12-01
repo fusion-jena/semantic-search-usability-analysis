@@ -1,0 +1,181 @@
+label
+plant phenological trait
+plant structure presence
+abscised plant structure presence
+new shoot system presence
+new above-ground shoot-borne shoot system presence
+new shoot system emerging from ground presence
+new shoot system emerging from ground in first growth cycle presence
+seedling presence
+new shoot system emerging from ground in later growth cycle presence
+leaf bud presence
+dormant leaf bud presence
+non-dormant leaf bud presence
+swelling leaf bud presence
+breaking leaf bud presence
+vascular leaf presence
+true leaf presence
+unfolding true leaf presence
+unfolded true leaf presence
+non-senescing unfolded true leaf presence
+senescing true leaf presence
+immature unfolded true leaf presence
+mature true leaf presence
+expanding unfolded true leaf presence
+expanded immature true leaf presence
+expanding true leaf presence
+reproductive structure presence
+floral structure presence
+non-senesced floral structure presence
+unopened floral structure presence
+open floral structure presence
+pollen-releasing floral structure presence
+senesced floral structure presence
+flower presence
+non-senesced flower presence
+unopened flower presence
+open flower presence
+pollen-releasing flower presence
+senesced flower presence
+flower head presence
+non-senesced flower head presence
+unopened flower head presence
+open flower head presence
+pollen-releasing flower head presence
+senesced flower head presence
+fruit presence
+ripening fruit presence
+unripe fruit presence
+ripe fruit presence
+cone presence
+pollen cone presence
+fresh pollen cone presence
+open pollen cone presence
+pollen-releasing pollen cone presence
+seed cone presence
+fresh seed cone presence
+ripening seed cone presence
+unripe seed cone presence
+ripe seed cone presence
+plant structures present
+abscised leaf presence
+abscised fruit or seed presence
+abscised cone or seed presence
+abscised plant structures present
+new shoot system present
+new shoot system absent
+new above-ground shoot-borne shoot systems present
+new above-ground shoot-borne shoot systems absent
+new shoot systems emerging from ground present
+new shoot systems emerging from ground absent
+new shoot systems emerging from ground in first growth cycle present
+new shoot systems emerging from ground in first growth cycle absent
+seedling present
+seedling absent
+new shoot systems emerging from ground in later growth cycle present
+new shoot systems emerging from ground in later growth cycle absent
+leaf buds present
+leaf buds absent
+dormant leaf buds present
+dormant leaf buds absent
+non-dormant leaf buds present
+non-dormant leaf buds absent
+swelling leaf buds present
+swelling leaf buds absent
+breaking leaf buds present
+breaking leaf buds absent
+vascular leaves present
+vascular leaves absent
+true leaves present
+true leaves absent
+unfolding true leaves present
+unfolding true leaves absent
+unfolded true leaves present
+unfolded true leaves absent
+non-senescing unfolded true leaves present
+non-senescing unfolded true leaves absent
+senescing true leaves present
+senescing true leaves absent
+immature unfolded true leaves present
+immature unfolded true leaves absent
+mature true leaves present
+mature true leaves absent
+expanding unfolded true leaves present
+expanding unfolded true leaves absent
+expanded immature true leaves present
+expanded immature true leaves absent
+expanding true leaves present
+expanding true leaves absent
+reproductive structures present
+reproductive structures absent
+floral structures present
+floral structures absent
+non-senesced floral structures present
+non-senesced floral structures absent
+unopened floral structures present
+unopened floral structures absent
+open floral structures present
+open floral structures absent
+pollen-releasing floral structures present
+pollen-releasing floral structures absent
+senesced floral structures present
+senesced floral structures absent
+flowers present
+flowers absent
+non-senesced flowers present
+non-senesced flowers absent
+unopened flowers present
+unopened flowers absent
+open flowers present
+open flowers absent
+pollen-releasing flowers present
+pollen-releasing flowers absent
+senesced flowers present
+senesced flowers absent
+flower heads present
+flower heads absent
+non-senesced flower heads present
+non-senesced flower heads absent
+unopened flower heads present
+unopened flower heads absent
+open flower heads present
+open flower heads absent
+pollen-releasing flower heads present
+pollen-releasing flower heads absent
+senesced flower heads present
+senesced flower heads absent
+fruits present
+fruits absent
+ripening fruits present
+ripening fruits absent
+unripe fruits present
+unripe fruits absent
+ripe fruits present
+ripe fruits absent
+cones present
+cones absent
+pollen cones present
+pollen cones absent
+fresh pollen cones present
+fresh pollen cones absent
+open pollen cones present
+open pollen cones absent
+pollen-releasing pollen cones present
+pollen-releasing pollen cones absent
+seed cones present
+seed cones absent
+fresh seed cones present
+fresh seed cones absent
+ripening seed cones present
+ripening seed cones absent
+unripe seed cones present
+unripe seed cones absent
+ripe seed cones present
+ripe seed cones absent
+abscised leaves present
+abscised leaves absent
+abscised fruits or seeds present
+abscised fruits or seeds absent
+abscised cones or seeds present
+abscised cones or seeds absent
+abscised plant structures absent

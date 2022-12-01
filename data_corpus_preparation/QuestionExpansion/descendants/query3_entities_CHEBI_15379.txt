@@ -1,0 +1,28 @@
+label
+dioxygen
+singlet dioxygen
+triplet dioxygen
+31.990
+31.99880
+Disauerstoff
+E 948
+E-948
+E948
+InChI=1S/O2/c1-2
+MYMOFIZGZYHOMD-UHFFFAOYSA-N
+O2
+O=O
+OXYGEN MOLECULE
+Oxygen
+[OO]
+dioxygene
+molecular oxygen
+(1)O2
+(O2)(..)
+(O2)(2.)
+O2(2.)
+[O][O]
+triplet molecular oxygen
+singlet molecular oxygen
+dioxidanediyl
+dioxygen(2.) (triplet)

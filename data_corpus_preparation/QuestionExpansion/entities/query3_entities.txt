@@ -1,0 +1,6 @@
+<http://purl.obolibrary.org/obo/PATO_0001227>
+<http://purl.obolibrary.org/obo/CHEBI_15379>
+<http://purl.obolibrary.org/obo/PATO_0000033>
+<http://purl.obolibrary.org/obo/ENVO_00002149>
+<http://purl.obolibrary.org/obo/ENVO_00000213>
+<http://purl.obolibrary.org/obo/ENVO_00000015>

@@ -1,0 +1,1591 @@
+label
+Foraminifera
+unclassified Foraminifera
+Allogromida
+Saccaminidae
+Spirillinida
+Miliolida
+Ammodiscus
+Cyclammina
+Carterinida
+Lituolida
+Rotaliida
+Monothalamids
+Globothalamea
+environmental samples <Foraminifera>
+Textulariida
+Xenophyophorea
+Lagenina
+Rzehakinidae
+Foraminifera sp. MH-2011a
+Arnoldiellina
+Foraminifera sp. fruitcake
+Foraminifera sp. chocolate silver saccamminid
+Foraminifera sp. fusiform
+Foraminifera sp. number 5 cigar
+Toxisarcon
+Foraminifera sp. LAPG-2014
+Arenoparrella
+Foraminifera sp. F17
+Saccamminid sp. ICEMON 1
+Saccamminid sp. ICEMON 6
+Saccamminid sp. ICEMON 2
+Saccamminid sp. ICEMON 4
+Saccamminid sp. ICEMON 5
+Saccamminid sp. ICEMON 3
+Foraminifera sp. 17247
+Foraminifera sp. 17248
+Foraminifera sp. 1 MH-2016
+Foraminiferan sp. 1222
+Foraminiferan sp. 347
+Foraminiferan sp. A406
+Foraminiferan sp. A405
+Foraminiferan sp. A273
+Foraminiferan sp. A109
+Foraminiferan sp. A196
+Foraminiferan sp. W79
+Foraminifera sp. AM1
+Foraminifera sp. AM2
+Foraminifera sp. AM4
+Foraminiferan sp. A9
+Foraminiferan sp. BB1
+Foraminiferan sp. J111
+Foraminiferan sp. J65
+Foraminiferan sp. M77
+Foraminiferan sp. M78
+Foraminiferan sp. N10
+Foraminiferan sp. N43
+Foraminiferan sp. R45
+Foraminiferan sp. X19
+Foraminiferan sp. X198
+Foraminiferan sp. X200
+Foraminiferan sp. X21
+Foraminiferan sp. X361
+Foraminifera sp. JP-2010a
+Foraminifera sp. JP-2010b
+Foraminifera sp. BOLD:AAG1170
+Bathyallogromia
+Allogromiidae
+unclassified Allogromida
+Lagynidae
+Conqueria
+Psammosphaera
+Saccodendron
+Saccaminidae sp. 2399
+Saccaminidae sp. A279
+Saccammina
+Saccaminidae sp. JP-2008a
+Saccaminidae sp. JP-2008b
+Technitella
+Patellinidae
+Spirillinidae
+Miliolina
+Ammodiscus sp. 9952
+Ammodiscus sp. 1406
+Cyclammina sp. 16000
+Cyclammina sp. 16003
+Cyclammina sp. 16004
+Carterinidae
+Remaneicidae
+Reophacidae
+Spiroplectamminidae
+Elphidiidae
+Globorotalioidea
+Hantkeninoidea
+unclassified Rotaliida
+Nummulitidae
+Chilostomellacea
+Rotaliacea
+Asterigerinoidea
+Planorbulinacea
+Discorbinellacea
+Discorboidea
+Pleurostomellidae
+Nonionacea
+Cassidulinacea
+Cibicididae
+Buliminacea
+Bolivinacea
+Globigerinacea
+Virgulinellacea
+Turrilinacea
+Fursenkoinacea
+Heterohelicacea
+Robertinidae
+Allogromia
+Psammophaga
+Reticulomyxidae
+Flexammina
+Notodendrodes
+Crithionina
+Astrammina
+Robertinida
+uncultured Foraminifera-like protist
+Foraminifera environmental sample
+uncultured foraminiferan McM11
+uncultured foraminiferan McM20
+uncultured soil foraminiferan
+Astrorhizida
+Trochamminacea
+Lituolacea
+Spiroplectamminacea
+Textulariacea
+Valvulinidae
+Globotextulariidae
+Syringamminidae
+Glandulinidae
+Nodosariidae
+Miliammina
+Arnoldiellina fluorescens
+Toxisarcon taimyr
+Toxisarcon alba
+Toxisarcon synsuicidica
+Arenoparrella mexicana
+Bathyallogromia weddellensis
+Micrometula
+Vellaria
+unclassified Allogromiidae
+Cylindrogullmia
+Niveus
+Edaphoallogromia
+Bigenerina
+Cribrothalammina
+environmental samples <Allogromiidae>
+Boderia
+Gloiogullmia
+Tinogullmia
+Hyperammina
+Phainogullmia
+Allogromida sp. 2 MH-2012
+Allogromiid sp. ICEMON 7
+Allogromiid sp. ICEMON 8
+Allogromida sp. 2003_gam
+Allogromida sp. 2005_gam
+Allogromida sp. Keys_Shepheardella
+Allogromida sp. RnGsilversacc
+Allogromida sp. RnGwhiteallo
+Allogromida sp. Sapsilversacc
+Allogromida sp. black_and_white
+Allogromida sp. chocolate_silver
+Allogromida sp. duplin_quartzball
+Allogromida sp. fusiform
+Allogromida sp. micrometula_like
+Allogromida sp. olive_encruster
+Allogromida sp. orange_long_pods
+Allogromida sp. rubble_dome
+Allogromida sp. rusty
+Allogromida sp. squatter
+Allogromida sp. timberdockB&W
+Allogromida sp. twinkle
+Allogromida sp. white_encruster
+Nemogullmia
+Conqueria laevis
+Psammosphaera sp. 3803
+Psammosphaera sp. 1018
+Psammosphaera sp. 1212
+Psammosphaera sp. A104
+Psammosphaera sp. A339
+Psammosphaera sp. A393
+Psammosphaera sp. A49
+Psammosphaera sp. A321
+Psammosphaera sp. A211
+Psammosphaera sp. A406
+Psammosphaera sp. A319
+Psammosphaera sp. A111
+Psammosphaera sp. A381
+Psammosphaera sp. 1019
+Psammosphaera sp. 1020
+Psammosphaera sp. A56
+Psammosphaera sp. A55
+Psammosphaera sp. A57
+Psammosphaera sp. 1040
+Psammosphaera sp. 1039
+Psammosphaera sp. A282
+Psammosphaera sp. A271
+Psammosphaera sp. A113
+Psammosphaera sp. A103
+Psammosphaera sp. A305
+Psammosphaera sp. A283
+Psammosphaera sp. A166
+Psammosphaera sp. A155
+Psammosphaera sp. A405
+Psammosphaera sp. A23
+Psammosphaera sp. 1086
+Psammosphaera sp. 1090
+Psammosphaera sp. 3929
+Saccodendron limosum
+Saccammina sphaerica
+Technitella sp. R5
+Patellina <Foraminifera>
+Spirillina
+Miliolidae
+Soritidae
+Alveolinidae
+Peneroplidae
+Hauerinidae
+Massilina
+Ophthalmidiidae
+Carterina
+Zaninettia
+Reophax
+Leptohalysis
+Spirotextularia
+Elphidium
+Cribroelphidium
+Elphidiella
+environmental samples <Elphidiidae>
+Catapsydracidae
+Globanomalinidae
+Rotaliida sp. 1 RM-2014
+Rotaliida sp. 2 RM-2014
+Rotaliida sp. 3 RM-2014
+Rotaliina sp. isolate 3953
+Rotaliina sp. M386
+Rotaliina sp. NR1
+Rotaliina sp. P125
+Rotaliina sp. P155
+Rotaliida sp. F20
+Nummulites
+Operculina <Foraminiferida>
+Cycloclypeus
+Heterostegina
+Planostegina
+Planoperculina
+Trichohyalidae
+Gavelinellidae
+Anomalinidae
+Chilostomellidae
+Rotaliidae
+Notorotaliidae
+Calcarinidae
+Asterigerinidae
+Amphisteginidae
+Epistomariidae
+Cymbaloporidae
+Planorbulinidae
+Planulinidae
+Discorbinellidae
+Pseudoparrellidae
+Glabratellidae
+Rosalinidae
+Sphaeroidinidae
+Discorbidae
+Buliminoididae
+Pleurostomella
+Nonionidae
+Osangulariidae
+Alabaminidae
+Cassidulinidae
+Cibicides
+Rupertina
+Buliminidae
+Uvigerinidae
+Siphogenerinoididae
+Buliminellidae
+Bolivinitidae
+Globigerinidae
+Pulleniatinidae
+Candeinidae
+Globorotaliidae
+Hantkeninidae
+Virgulinella
+Stainforthiidae
+Fursenkoinidae
+Guembelitriidae
+Robertina
+Allogromia sp. 3132
+Allogromia crystallifera
+Allogromia sp. F-DL-2003
+Allogromia sp. A-DL-2003
+Allogromia sp. A
+Allogromia sp. strain NF
+Allogromia sp. AAH-2005
+Allogromia sp.
+Allogromia laticollaris
+Allogromia sp. 12957
+Allogromia sp. 12958
+Allogromia sp. 12959
+Psammophaga sp. 12208
+Psammophaga simplora
+Psammophaga sp. 2359
+Psammophaga sp. A300
+Psammophaga sp. A302
+Psammophaga sp. 9495
+Psammophaga sp. 18412
+Psammophaga sp. 18413
+Psammophaga sp. FG-2016a
+Psammophaga sp. 4792.2
+Psammophaga sp. 4514.8
+Psammophaga sp. 4791.5
+Psammophaga sp. 5321.1
+Psammophaga sp. 4023
+Psammophaga sp. 4020
+Psammophaga sp. 10102.6
+Psammophaga sp. 10111.17
+Psammophaga sp. 10112.22
+Psammophaga sp. 10128.42
+Psammophaga sp. 10131.46
+Psammophaga sp. 10098.1
+Psammophaga sp. 10127.37
+Psammophaga sp. 10110.12
+Psammophaga sp. 10128.41
+Psammophaga sp. JP-2010a
+Psammophaga sp. JP-2010b
+Psammophaga sapela
+Psammophaga sp. 12325
+Psammophaga sp. 12324
+Psammophaga sp. 12326
+Dracomyxa
+Haplomyxa
+Reticulomyxa
+Flexammina islandica
+Notodendrodes hyalinosphaira
+Notodendrodes antarctikos
+Crithionina granum
+Crithionina delacai
+Crithionina mamilla
+Crithionina sp. 1074
+Crithionina sp. 665
+Astrammina rara
+Astrammina triangularis
+Ceratobuliminidae
+Epistominidae
+Astrorhizidae
+Rhabdamminidae
+Saccamminidae
+Bathysiphonidae
+Astrorhizida sp. BBL-2009a
+Trochamminidae
+Lituolidae
+Hormosinidae
+Sproplectamminidae
+Eggerellidae
+Textulariidae
+Pseudogaudryinidae
+Valvulina
+Liebusella
+Aschemonella
+Syringammina
+Shinkaiya
+Glandulina
+Dentalina
+Miliammina fusca
+Miliammina sp. 10244
+Micrometula hyalostriata
+Micrometula sp. 6832
+Micrometula sp. TB3788
+Micrometula sp. TB3789
+Micrometula sp. 2939
+Micrometula sp. 2966
+Micrometula sp. 2940
+Micrometula sp. 2920
+Micrometula sp. 3190
+Micrometula sp. 3217
+Micrometula sp. 3226
+Micrometula sp. 8237
+Micrometula sp. 8155
+Micrometula sp. 7998
+Micrometula sp. 7924
+Micrometula sp. 17429
+Micrometula sp. 17224
+Micrometula sp. 17211
+Micrometula sp. 17210
+Micrometula sp. 17423
+Micrometula sp. 17424
+Micrometula sp. 17425
+Micrometula sp. 17179
+Vellaria sp. 12192
+Vellaria zucchellii
+Vellaria pellucidus
+Vellaria sp. 3215
+Vellaria sp. 3216
+Vellaria sp. 10125.26
+Vellaria sp. 10125.27
+Vellaria sp. 10126.31
+Vellaria sp. 10126.32
+Allogromiidae sp. 3807
+Allogromiidae sp. NP1
+Cylindrogullmia sp. 3208
+Cylindrogullmia alba
+Niveus flexilis
+Edaphoallogromia australica
+Bigenerina sp. 31
+Cribrothalammina alba
+Allogromiina sp. A1182
+Allogromiina sp. A664
+Allogromiina sp. A136
+Allogromiina sp. A131
+Allogromiina sp. A119
+Allogromiina sp. A121
+Allogromiina sp. 46
+Allogromiina sp. 50
+Allogromiina sp. 26
+Allogromiina sp. 27
+Allogromiina sp. 33
+Allogromiina sp. 52
+Allogromiina sp. 51
+Allogromiina sp. 29
+Allogromiina sp. 6
+Allogromiina sp. 1195
+Allogromiina sp. A213
+Allogromiina sp. A313
+Allogromiina sp. 1141
+Allogromiina sp. 1124
+Allogromiid sp. A26
+Allogromiina sp. 1060
+Allogromiina sp. A265
+Allogromiina sp. A380
+Allogromiina sp. 1140
+Allogromiina sp. 1125
+Allogromiina sp. 1214
+Allogromiina sp. 1106
+Allogromiina sp. 1207
+Allogromiina sp. A70
+Allogromiina sp. A19
+Allogromiina sp. 1050
+Allogromiina sp. A101
+Allogromiina sp. A304
+Allogromiina sp. 1196
+Allogromiina sp. A78
+Allogromiina sp. A312
+Allogromiina sp. A276
+Allogromiina sp. A410
+Allogromiina sp. A409
+Allogromiina sp. A196
+Allogromiina sp. 1202
+Allogromiina sp. A316
+Allogromiina sp. A109
+Allogromiina sp. 1173
+Allogromiina sp. A273
+Allogromiina sp. 347
+Allogromiina sp. 1222
+Allogromiina sp. 1055
+Boderia sp. 658
+Gloiogullmia eurystoma
+Gloiogullmia sp. 1188
+Gloiogullmia sp. A18
+Gloiogullmia sp. A17
+Gloiogullmia sp. A106
+Gloiogullmia sp. A146
+Gloiogullmia sp. 1112
+Gloiogullmia sp. 1059
+Gloiogullmia sp. A24
+Gloiogullmia sp. 2882
+Tinogullmia sp. 1199
+Tinogullmia sp. A297
+Tinogullmia sp. A285
+Tinogullmia sp. A25
+Hyperammina sp. 2919
+Phainogullmia aurata
+Nemogullmia sp. 12024
+Nemogullmia sp. A164
+Nemogullmia sp. A330
+Nemogullmia sp. 1186
+Nemogullmia sp. 1110
+Nemogullmia sp. A308
+Nemogullmia longevariabilis
+Patellina corrugata
+Spirillina sp. 1 MH-2012
+Quinqueloculininae
+Miliolidae sp. isolate 3955
+Miliolidae sp. DL-2007
+Soritinae
+Broeckina
+Laevipeneroplis
+Archaiasinae
+Alveolinella
+Borelis
+Peneroplis
+Dendritina
+Spirolina
+Coscinospira
+Pyrgo
+Siphonaperta
+Massilina secans
+Spirophthalmidium
+Carterina spiculotesta
+Zaninettia conica
+Zaninettia manaarensis
+Reophax sp. 1879
+Reophax sp. 1880
+Reophax sp. 2136
+Reophax sp. 2174
+Reophax sp. 7806
+Reophax sp. 7843
+Reophax sp. 7845
+Reophax sp. 7927
+Reophax sp. E17
+Reophax sp. A67
+Reophax sp. isolate 3969
+Reophax sp. JP-2008
+Reophax sp. 3884
+Leptohalysis scotti
+Spirotextularia sp. 13195
+Elphidium macellum
+Elphidium williamsoni
+Elphidium asklundi
+Elphidium bartletti
+Elphidium frigidum
+Elphidium crispum
+Elphidium excavatum
+Elphidium sp. 18042
+Elphidium sp. 18066
+Elphidium sp. 18067
+Elphidium sp. 18068
+Elphidium advenum
+Elphidium sp. S1
+Elphidium sp. S10
+Elphidium sp. S11
+Elphidium sp. S12
+Elphidium sp. S13
+Elphidium sp. S14
+Elphidium sp. S15
+Elphidium sp. S2
+Elphidium sp. S3
+Elphidium sp. S4
+Elphidium sp. S5
+Elphidium sp. S6
+Elphidium sp. S7
+Elphidium sp. S8
+Elphidium sp. S9
+Haynesina sp. S16
+Haynesina sp. S17
+Elphidium sp.
+Elphidium clavatum
+Elphidium cf. williamsoni
+Elphidium aculeatum
+Elphidium sp. 1244
+Elphidium sp. 3978
+Elphidium margaritaceum
+Cribroelphidium albiumbilicatum
+Elphidiella groenlandica
+Elphidiella sp. 14600
+Elphidiella sp. 14601
+uncultured Elphidium
+Globoquadrina
+Hastigerinella
+Nummulites venosus
+Operculina cf. ammonoides
+Operculina sp. 494
+Operculina elegans
+Operculina complanata
+Operculinella cumingii
+Operculina discoidalis
+Operculina ammonoides
+Cycloclypeus carpenteri
+Heterostegina depressa
+Planostegina operculinoides
+Planostegina longisepta
+Planoperculina heterosteginoides
+Buccella
+Aubignyna
+Discanomalina
+Heterolepa
+Hanzawaia
+Cibicidoides
+Chilostomella
+Ammonia
+Rotaliella
+Murrayinella
+Pararotalia
+Neorotalia
+Cribrorotalia
+Notorotalia
+Baculogypsinoides
+Calcarina
+Baculogypsina
+Schlumbergerella
+Asterigerina
+Amphistegina
+Nuttallides
+Cymbaloporetta
+Planorbulina
+Planorbulinella
+Hyalinea
+Discorbinella
+Epistominella
+Glabratella
+Planoglabratella
+Angulodiscorbis
+Rossyatella
+Glabratellina
+Rosalina
+Gavelinopsis
+Tretomphalus
+Sphaeroidina
+Discorbis
+Cancris
+Buliminoides
+Pleurostomella sp. 7066
+Nonionellina
+Haynesina
+Astrononion
+Nonionella
+Nonion
+Nonionoides
+Melonis
+Pullenia
+Osangulariella
+Oridorsalis
+Globocassidulina
+Ehrenbergina
+Evolvocassidulina
+Islandiella
+Cassidulinoides
+Cassidulina
+Cibicides sp. MS-2011
+Cibicides malboroughensis
+Cibicides sp. 17594
+Cibicides sp. 17593
+Cibicides sp. 17592
+Cibicides sp. 17589
+Cibicides sp. 17590
+Cibicides sp. 17591
+Cibicides refulgens
+Cibicides wuellerstorfi
+Cibicides ungerianus
+Cibicides pachyderma
+Cibicides kullenbergi
+Cibicides sp. 2524
+Cibicides pachyderma x kullenbergi
+Rupertina stabilis
+Bulimina
+Globobulimina
+Uvigerina
+Trifarina
+Rectuvigerina
+Buliminella
+Bolivina
+Brizalina
+Streptochilus
+Saidovina
+Globoturborotalita
+Turborotalita
+Beella
+Sphaeroidinella
+Globigerinella
+Globigerina
+Globigerinoides
+Orbulina
+Globigerinita
+Pulleniatina
+Candeina
+Globorotalia
+Neogloboquadrina
+Hastigerina
+Virgulinella fragilis
+Stainforthia
+Virgulina
+Gallitellia
+Robertina sp. 12720
+Robertina arctica
+Dracomyxa pallida
+Haplomyxa saranae
+Reticulomyxa filosa
+Rubratella
+Hoeglundina
+Hippocrepina
+Pelosina
+Rhabdammina
+Armorella
+Astrorhiza
+Rhizammina
+Vanhoeffenella
+Marsipella
+Hemisphaerammina
+Hippocrepinella
+Ovammina
+Leptammina
+Bathysiphon
+environmental samples <Trochamminidae>
+unclassified Trochamminidae
+Cribrostomoides
+Trochammina
+Jadammina
+Ammotium
+Ammobaculites
+Haplophragmoides
+Leptohyalis
+Spiroplectammina
+Eggerelloides
+Eggerella
+Textulariinae
+Siphoniferoides
+Valvulina conica
+Liebusella goesi
+Aschemonella ramuliformis
+Aschemonella sp. 2 MH-2016
+Aschemonella sp. 1 MH-2016
+Syringammina corbicula
+Shinkaiya lindsayi
+Glandulina sp. 1015
+Glandulina antarctica
+Dentalina aphelis
+Cornuspira
+Quinqueloculina
+Affinetrina
+Triloculina
+Amphisorus
+Sorites
+Marginopora
+Soritinae sp. EL52_1320j
+Soritinae sp. EL67b_1335j
+Soritinae sp. EL7_1275j
+Soritinae sp. EL8_1276j
+Sorites sp. isolate X-1653
+Sorites sp. isolate X-1646
+Broeckina sp. 835
+Laevipeneroplis bradyi
+Laevipeneroplis proteus
+Laevipeneroplis sp. 2264
+Laevipeneroplis karreri
+Laevipeneroplis sp. 2456 MH-2008
+Androsina
+Cyclorbiculina
+Parasorites
+Archaias
+Alveolinella quoi
+Borelis schlumbergeri
+Borelis pulchra
+Borelis sp. 2405 MH-2008
+Peneroplis planatus
+Peneroplis pertusus
+Peneroplis sp. 69 MH-2008
+Peneroplis sp.
+Dendritina zhengae
+Spirolina arietinus
+Spirolina acicularis
+Coscinospira hemprichii
+Pyrgo peruviana
+Pyrgo sp. PS594
+Siphonaperta sp. 13213
+Spirophtalmidium sp. 13207
+Elphidium excavatum clavatum
+Globoquadrina conglomerata
+Hastigerinella digitata
+Buccella frigida
+Buccella peruviana
+Aubignyna perlucida
+Discanomalina coronata
+Heterolepa praecincta
+Hanzawaia sp. 6782
+Hanzawaia sp. 6863
+Cibicidoides subhaidingerii
+Cibicidoides lobatulus
+Cibicidoides cicatricosus
+Cibicidoides wuellerstorfi
+Cibicidoides ungerianus
+Cibicidoides sp. 5227
+Cibicidoides sp. 5305
+Cibicidoides variabilis
+Cibicidoides dispars
+Chilostomella oolina
+Chilostomella ovoidea
+Chilostomella sp. NPac
+Chilostomella sp. AtlMed
+Chilostomella sp. CPac
+Chilostomella sp. F272
+Ammonia falsobeccarii
+Ammonia sp. 257
+Ammonia sp. 450
+Ammonia catesbyana
+Ammonia sp. ammo02
+Ammonia sp. 1 RS-2013
+Ammonia sp. genotype T2
+Ammonia sp. genotype T1
+Ammonia aberdoveyensis
+environmental samples <Ammonia>
+Ammonia aoteana
+Ammonia sp. genotype T6
+Ammonia beccarii
+Ammonia sp. isolate 2306
+Ammonia tepida
+Ammonia parkinsoniana
+Ammonia sp.
+Ammonia sp. 2306_1
+Ammonia sp. 2306_3
+Ammonia sp. 2306_4
+Ammonia sp. JP-2007
+Ammonia batavus
+Ammonia sp. genotype T7
+Ammonia aomoriensis
+Ammonia sp. 475
+Ammonia sp. 476
+Ammonia sp. 243
+Ammonia sp. 490
+Ammonia sp. 2306
+Ammonia sp. 1404
+Ammonia sp. 391
+Ammonia sp. 392
+Ammonia sp. 464
+Ammonia sp. 465
+Ammonia sp. 559
+Ammonia sp. 560
+Ammonia sp. 607
+Rotaliella sp. 12221
+Rotaliella elatiana
+Rotaliella sp. 1002
+Murrayinella globosa
+Murrayinella sp. 1 MH-2016
+Pararotalia calcariformata
+Pararotalia nipponica
+Neorotalia calcar
+Cribrorotalia sp. 17613
+Cribrorotalia sp. 17611
+Cribrorotalia sp. 17612
+Cribrorotalia sp. 17614
+Notorotalia finlayi
+Notorotalia zelandica
+Baculogypsinoides spinosus
+Calcarina hispida
+Calcarina defrancii
+Calcarina gaudichaudii
+Baculogypsina sphaerulata
+Schlumbergerella floresiana
+Asterigerina carinata
+Amphistegina sp. RT2
+Amphistegina sp. RT1
+Amphistegina sp. RT12
+Amphistegina lobifera
+Nuttallides sp. 13251
+Nuttallides sp. 13254
+Nuttallides sp. 13256
+Nuttallides sp. 13252
+Cymbaloporetta squammosa
+Planorbulina mediterranensis
+Planorbulinella sp. 358
+Hyalinea balthica
+Discorbinella bertheloti
+Epistominella sp. 7523
+Epistominella sp. 7277
+Epistominella sp. 8120
+Epistominella sp. 8121
+Epistominella sp. 8122
+Epistominella sp. 7639
+Epistominella sp. 8042
+Epistominella sp. 17281
+Epistominella sp. 17726
+Epistominella sp. isolate 286
+Epistominella vitrea
+Epistominella exigua
+Epistominella arctica
+Epistominella sp. 1 BBL-2009
+Epistominella sp. 2 BBL-2009
+Epistominella sp. 3 BBL-2009
+Glabratella milletti
+Glabratella patelliformis
+Glabratella sp. 13435
+Glabratella elegantissima
+Glabratella erecta
+Glabratella mediterranensis
+Planoglabratella nakamurai
+Planoglabratella opercularis
+Angulodiscorbis sp. 13425
+Angulodiscorbis sp. T2
+Angulodiscorbis sp. T1
+Angulodiscorbis quadrangularis
+Rossyatella sp. 3953
+Rossyatella sp. DL-2007
+Glabratellina sp. F316
+Rosalina sp. 18046
+Rosalina sp. 408
+Rosalina orbicularis
+Rosalina sp. RoA163_38s
+Rosalina sp. 3675
+Rosalina vilardeboana
+Rosalina sp. 3675_1
+Rosalina sp. 3675_2
+Rosalina macropora
+Rosalina sp. R2
+Rosalina sp. R1
+Rosalina sp. 12971
+Rosalina sp. 12285
+Rosalina sp. 13127
+Rosalina sp. 13128
+Gavelinopsis praegeri
+Tretomphalus sp. B123
+Sphaeroidina bulloides
+Discorbis rosea
+Cancris auriculus
+Buliminoides sp. 5041
+Buliminoides sp. 5096
+Buliminoides sp. 623
+Nonionellina sp. 1 RS-2012
+Nonionellina sp. noni40
+Nonionellina sp. 1 RS-2013
+Nonionellina flemingi
+Haynesina nivea
+Haynesina depressa
+Haynesina germanica
+Haynesina orbiculare
+Astrononion echolsi
+Nonionella sp. 17382
+Nonionella sp. 17723
+Nonionella auris
+Nonionella stella
+Nonionella labradorica
+Nonion sp. 17986
+Nonion sp. N39
+Nonion sp. N37
+Nonionoides grateloupii
+Nonionoides turgida
+Melonis barleeanus
+Melonis affinis
+Melonis pompilioides
+Pullenia subcarinata
+Osangulariella umbonifera
+Oridorsalis umbonatus
+Globocassidulina biora
+Globocassidulina subglobosa
+Globocassidulina sp. MH2002
+Globocassidulina sp. 409
+Globocassidulina sp. 5035
+Ehrenbergina glabra
+Evolvocassidulina orientalis
+Islandiella sp. 2643
+Cassidulinoides porrectus
+Cassidulinoides parkerianus
+Cassidulina laevigata
+Bulimina sp. FF78
+Bulimina aculeata
+Bulimina marginata
+Bulimina pagoda
+Bulimina elongata
+Bulimina sp. BMK002
+Bulimina sp. X230
+Globobulimina affinis
+Globobulimina pseudospinescens
+Globobulimina turgida
+Globobulimina sp. M482
+Uvigerina mediterranea
+Uvigerina elongatastriata
+Uvigerina peregrina
+Uvigerina akitaensis
+Uvigerina phlegeri
+Trifarina earlandi
+Rectuvigerina sp. N29
+Buliminella tenuata
+Buliminella elegantissima
+Buliminella sp. 5041
+Buliminella sp. 5096
+Bolivina argentea
+Bolivina spathulata
+Bolivina sp. MH-2015
+Bolivina cacozela
+Bolivina sp. 10180
+Bolivina sp. 10181
+Bolivina sp. 17906
+Bolivina sp. 17907
+Bolivina sp. 13112
+Bolivina sp. FF65
+Bolivina sp. FF126
+Bolivina sp. FF127
+Bolivina sp. 17601
+Bolivina sp. 17602
+Bolivina sp. 17604
+Bolivina sp. 17605
+Bolivina sp. 18184
+Bolivina variabilis
+Bolivina subaenariensis
+Bolivina sp. isolate 615
+Bolivina sp. JPM99
+Bolivina sp. isolate 170
+Bolivina sp. 2341
+Bolivina sp.
+Bolivina sp. X137
+Bolivina skagerrakensis
+Bolivina sp. 13110
+Bolivina sp. 13111
+Brizalina sp. 1 RS-2013
+Brizalina sp. 17984
+Brizalina alata
+Streptochilus sp. AK-2013
+Streptochilus sp.
+Streptochilus globigerus
+Saidovina sp. FF409
+Saidovina sp. FF410
+Saidovina sp. FF408
+Saidovina sp. FF407
+Globoturborotalita rubescens
+Turborotalita quinqueloba
+Beella digitata
+Sphaeroidinella dehiscens
+Globigerinella siphonifera
+Globigerinella radians
+Globigerinella aequilateralis
+Globigerinella calida
+Globigerina falconensis
+Globigerinita uvula
+Globigerina sp. Okinawa trough 2006
+Globigerina sp.
+Globigerina bulloides
+Globigerinoides sacculifer
+Globigerinoides ruber
+Globigerinoides conglobatus
+Orbulina universa
+Orbulina sp. 'isolate A465'
+Orbulina sp. 'isolate A495'
+Orbulina sp. 'isolate V17'
+Orbulina sp. 'isolate V24'
+Orbulina sp. 'isolate V33'
+Orbulina sp. 'isolate SD78'
+Orbulina sp. 'isolate SD79'
+Orbulina sp. 'isolate AG19'
+Orbulina sp. 'isolate A24'
+Orbulina sp. 'isolate AG42'
+Orbulina sp. 'isolate A29'
+Orbulina sp. 'isolate AG102'
+Orbulina sp. 'isolate A136'
+Orbulina sp. 'isolate A202'
+Orbulina sp. 'isolate A229'
+Orbulina sp. 'isolate A292'
+Orbulina sp. 'isolate A325'
+Orbulina sp. 'isolate A327'
+Orbulina sp. 'isolate A492'
+Orbulina sp. 'isolate B257'
+Orbulina sp. 'isolate B250'
+Orbulina sp. 'isolate A379'
+Orbulina sp. 'isolate A438'
+Orbulina sp. 'isolate GH2'
+Orbulina sp. 'isolate A47'
+Orbulina sp. 'isolate A69'
+Orbulina sp. 'isolate AG103'
+Orbulina sp. 'isolate A102'
+Orbulina sp. 'isolate A293'
+Orbulina sp. 'isolate A333'
+Orbulina sp. 'isolate A399'
+Orbulina sp. 'isolate A440'
+Orbulina sp. 'isolate A463'
+Globigerinita glutinata
+Pulleniatina obliquiloculata
+Candeina nitida
+Globorotalia ungulata
+Globorotalia tumida
+Globorotalia crassaformis
+Globorotalia menardii
+Globorotalia scitula
+Globorotalia hirsuta
+Globorotalia inflata
+Globorotalia truncatulinoides
+Neogloboquadrina pachyderma
+Neogloboquadrina sp. RM-2014
+Neogloboquadrina dutertrei
+Neogloboquadrina incompta
+Hastigerina pelagica
+Stainforthia fusiformis
+Stainforthia sp. isolate 2641
+Virgulina concava
+Gallitellia vivans
+Rubratella sp. 18007
+Hoeglundina elegans
+Hippocrepina indivisa
+Pelosina variabilis
+Pelosina fusiformis
+Pelosina sp. 1029
+Pelosina sp. A74
+Pelosina sp. A75
+Rhabdammina cornuta
+Rhabdammina discreta
+Armorella sphaerica
+Astrorhiza limicola
+Rhizammina sp. W156
+Rhizammina sp. 157
+Rhizammina algaeformis
+Vanhoeffenella sp. W37
+Vanhoeffenella sp. W178
+Marsipella sp. 4074
+Marsipella sp. 4076
+Marsipella sp. 4096
+Hemisphaerammina bradyi
+Hemisphaerammina sp. 1182
+Hemisphaerammina sp. A258
+Hemisphaerammina sp. 1084
+Hemisphaerammina sp. A266
+Hemisphaerammina sp. A257
+Hippocrepinella hirudinea
+Hippocrepinella sp. 1157
+Hippocrepinella sp. A32
+Hippocrepinella sp. A335
+Hippocrepinella sp. A33
+Hippocrepinella sp. A378
+Hippocrepinella sp. A188
+Hippocrepinella sp. A228
+Hippocrepinella sp. A230
+Hippocrepinella acuta
+Hippocrepinella alba
+Hippocrepinella sp. 2854
+Ovammina opaca
+Leptammina sp. 5174
+Bathysiphon argenteus
+Bathysiphon flexilis
+Bathysiphon minuta
+Bathysiphon cf. flexilis
+Bathysiphon sp. isolate 3987
+Bathysiphon sp. 3980
+uncultured Trochammina
+Trochamminidae sp. 10089
+Trochamminidae sp. 9634
+Trochamminidae sp. 10093
+Cribrostomoides sp. 14870
+Cribrostomoides crassimargo
+Cribrostomoides sp. PS170
+Cribrostomoides sp. PS171
+Cribrostomoides sp. PS210
+Cribrostomoides sp. PS231
+Cribrostomoides sp. PS234
+Trochammina carinata
+Trochammina sp. isolate 4057
+Trochammina sp.
+Trochammina hadai
+Jadammina macrescens
+Ammotium sp. 13403
+Ammotium pseudocassis
+Ammobaculites sp. 2457
+Ammobaculites sp. 150
+Haplophragmoides wilberti
+Leptohyalis scotti
+Spiroplectammina sp. 2646
+Eggerelloides scaber
+Eggerella sp. 13131
+Eggerella sp. 13132
+Eggerella sp. 13133
+Eggerella sp. 13136
+Textularia
+Myxotheca
+Bigerina
+Siphoniferoides sp. 655
+Cornuspira sp. 7349
+Cornuspira antarctica
+Quinqueloculina sp. X251-20
+Quinqueloculina seminulum
+Quinqueloculina sp.
+Affinetrina eburnea
+Triloculina sp. PS124
+Triloculina sp. 12967
+Triloculina sp. 12961
+Amphisorus kudakajimaensis
+Amphisorus hemprichii
+Amphisorus sp. 1333
+Sorites sp. 206
+Sorites sp. 489
+Sorites sp. 751a
+Sorites sp. 1591a
+Sorites sp. 1629
+Sorites sp. 1678
+Sorites sp. 836
+Sorites sp.
+Sorites sp. 1368
+Sorites marginalis
+Sorites variabilis
+Sorites sp. MS24_5235x
+Sorites sp. MS28_5238x
+Sorites sp. GIII100_2224x
+Sorites sp. G10_1591j
+Sorites sp. G109_1690j
+Sorites sp. GIII99_2223x
+Sorites sp. LII41_1814x
+Sorites sp. 215j
+Sorites sp. 217j
+Sorites sp. 218j
+Sorites sp. 219j
+Sorites sp. 220j
+Sorites sp. 221j
+Sorites sp. 223j
+Sorites sp. 208j
+Sorites sp. 210j
+Sorites sp. 213j
+Sorites sp. 216j
+Sorites sp. EL16_1284j
+Sorites sp. EL17_1285j
+Sorites sp. EL22_1290j
+Sorites sp. 1461j
+Sorites sp. 489j
+Sorites sp. LII95_1868x
+Sorites sp. LII141_1914x
+Sorites sp. GIII154_2288x
+Sorites sp. EL34_1302j
+Sorites sp. EL39_1307j
+Sorites sp. EL87_1355j
+Sorites sp. P230_1632x
+Sorites sp. P234_1636x
+Sorites sp. P244_1646x
+Sorites sp. P247_1649x
+Sorites sp. P253_1656x
+Sorites sp. P257_1660x
+Sorites sp. P258_1661x
+Sorites sp. P261_1664x
+Sorites sp. LII42_1815x
+Sorites sp. LII44_1817x
+Sorites sp. FII31_1283x
+Sorites sp. FII12_1256x
+Sorites sp. FII30_1282x
+Sorites sp. FII36_1288x
+Sorites sp. FII71_1331x
+Sorites sp. FII73_1333x
+Sorites sp. FII75_1335x
+Sorites sp. FII77_1349x
+Sorites sp. FII78_1350x
+Sorites sp. R40_971x
+Sorites sp. P38_1393x
+Sorites sp. P256_1659x
+Sorites sp. P259_1662x
+Sorites sp. P263_1666x
+Sorites sp. G50_1631j
+Sorites sp. G100_1681j
+Sorites sp. P1_1354x
+Sorites sp. P2_1356x
+Sorites sp. P3_1358x
+Sorites sp. P26_1381x
+Sorites sp. P32_1387x
+Sorites sp. P39_1394x
+Sorites sp. P51_1406x
+Sorites sp. P73_1428x
+Sorites sp. P80_1435x
+Sorites sp. P88_1443x
+Sorites sp. P100_1455x
+Sorites sp. P227_1628x
+Sorites sp. P229_1630x
+Sorites sp. El69b_1337j
+Sorites sp. 650j
+Sorites sp. 207j
+Sorites sp. 1368j
+Sorites sp. FII13_1259x
+Sorites sp. FII79_1351x
+Sorites sp. G97_1678j
+Sorites sp. 214j
+Sorites sp. FII34_1286x
+Sorites sp. FII74_1334x
+Sorites sp. P27_1382x
+Sorites sp. P251_1653x
+Sorites sp. P111_1466x
+Sorites sp. P124_1479x
+Sorites sp. GIII139_2263x
+Sorites sp. Sor_Ia
+Sorites sp. Sor_Ib
+Sorites sp. Sor_Ic
+Sorites sp. Sor_III
+Sorites sp. Sor_VIII
+Sorites sp. Sor_IX
+Sorites sp. Sor_X
+Sorites sp. Sor_XI
+Sorites orbiculus
+Marginopora vertebralis
+Androsina lucasi
+Cyclorbiculina compressa
+Parasorites sp. 1634
+Parasorites sp. 483
+Parasorites sp. 312
+Archaias angulatus
+Archaias sp. 6668 MH-2008
+Archaias sp. 71 MH-2008
+Ammonia sp. AmmC5
+Ammonia sp. ChS2
+Ammonia sp. FS10
+Ammonia sp. TrS2
+Ammonia sp. TrS5
+Ammonia sp. VS23
+Ammonia sp. 572
+Ammonia sp. Amm.ab.3
+Ammonia sp. VS19
+Ammonia sp. VS25
+Ammonia sp. VS27
+Ammonia sp. VS4
+Ammonia sp. VS5
+Ammonia sp. 1403
+Ammonia sp. Amm.ab.5
+Ammonia sp. Amm.ab.7
+Ammonia sp. Amm.ab.9
+Ammonia sp. C10
+Ammonia sp. AS2
+Ammonia sp. Ammp1
+Ammonia sp. AUK1
+Ammonia sp. AUK2
+Ammonia sp. FS21
+Ammonia sp. AH2
+Ammonia sp. AH3
+Ammonia sp. Amm.ab.10
+Ammonia sp. AS4
+Ammonia sp. GS2
+Ammonia sp. GS5
+Ammonia sp. AmmJ1
+Ammonia sp. AmmJ2
+Ammonia sp. AmmJ3
+Ammonia sp. 569
+Ammonia sp. 570
+Ammonia sp. AUSA1
+Ammonia sp. AUSA2
+Ammonia sp. AmmW10
+Ammonia sp. 571
+Ammonia sp. VS18
+Ammonia sp. 526
+Ammonia sp. 530
+Ammonia sp. 521
+Ammonia sp. 1405
+Ammonia sp. 1433
+Ammonia sp. 597
+Ammonia sp. 599
+Ammonia sp. 600
+Ammonia sp. 601
+Ammonia sp. 602
+Ammonia sp. 603
+Ammonia sp. 604
+Ammonia sp. 605
+Ammonia sp. 606
+Ammonia sp. 91
+Ammonia sp. 93
+Ammonia sp. 94
+Ammonia sp. 95
+Ammonia sp. 96
+Ammonia sp. 98
+Ammonia sp. 99
+Ammonia sp. 102
+Ammonia sp. 104
+Ammonia sp. 105
+Ammonia sp. 106
+Ammonia sp. 107
+Ammonia sp. 108
+Ammonia sp. 109
+Ammonia sp. 110
+Ammonia sp. 111
+Ammonia sp. 112
+Ammonia sp. 113
+Ammonia sp. 114
+Ammonia sp. 115
+Ammonia sp. 116
+Ammonia sp. 117
+Ammonia sp. 120
+Ammonia sp. 121
+Ammonia sp. 122
+Ammonia sp. 123
+Ammonia sp. 124
+Ammonia sp. 127
+Ammonia sp. 129
+Ammonia sp. 130
+Ammonia sp. 132
+Ammonia sp. 133
+Ammonia sp. 135
+Ammonia sp. 136
+Ammonia sp. 137
+Ammonia sp. 139
+Ammonia sp. 157
+Ammonia sp. 158
+Ammonia sp. 159
+Ammonia sp. 160
+Ammonia sp. 162
+Ammonia sp. 163
+Ammonia sp. 164
+Ammonia sp. 166
+Ammonia sp. 167
+Ammonia sp. 170
+Ammonia sp. 173
+Ammonia sp. 175
+Ammonia sp. 176
+Ammonia sp. 177
+Ammonia sp. 178
+Ammonia sp. 181
+Ammonia sp. 182
+Ammonia sp. 184
+Ammonia sp. 641
+Ammonia sp. 642
+Ammonia sp. 643
+Ammonia sp. 644
+Ammonia sp. 645
+Ammonia sp. 646
+Ammonia sp. 647
+Ammonia sp. 648
+Ammonia sp. 649
+Ammonia sp. 650
+Ammonia sp. 652
+Ammonia sp. 653
+Ammonia sp. 654
+Ammonia sp. 655
+Ammonia sp. 656
+Ammonia sp. 657
+Ammonia sp. 658
+Ammonia sp. 659
+Ammonia sp. 660
+Ammonia sp. 661
+Ammonia sp. 404
+Ammonia sp. 707
+Ammonia sp. 709
+Ammonia sp. 711
+Ammonia sp. 729
+Bulimina marginata f. marginata
+Bulimina marginata f. denudata
+Globigerinella siphonifera type III
+Globigerinella siphonifera type IV
+Globigerinella siphonifera Type II
+Globigerinella siphonifera type IIa
+Globigerinella siphonifera type IIb
+Textularia pseudogramen
+Textularia agglutinans
+Textularia sp. 13401
+Textularia sp. 13402
+Textularia sp.
+Textularia sagittula
+Myxotheca sp.
+Bigerina sp.
+Foraminiferida
+forams
+unclassified Foraminiferida
+Rotaliina
+Xenophyophora
+xenophyophore
+xenophyophores
+Foraminifera sp. 10 MH-2016
+Foraminifera sp. 11 MH-2016
+Foraminifera sp. 12 MH-2016
+Foraminifera sp. 3 MH-2016
+Foraminifera sp. 4 MH-2016
+Foraminifera sp. 6 MH-2016
+Foraminifera sp. 7 MH-2016
+Foraminifera sp. 8 MH-2016
+Foraminifera sp. 9 MH-2016
+Foraminiferida sp. BOLD:AAG1170
+Milioliina
+unclassified Rotaliina
+Chilostomellaceae
+Chilostomelloidea
+Rotalioidea
+Planorbulinoidea
+Discorbinelloidea
+Discorbacea
+Nonionoidea
+Cassidulinoidea
+Virgulinellaceae
+Notodendroides
+uncultured Foraminifera
+uncultured foraminiferan
+Foraminifera sp. MH-2012
+Bolivinidae
+Allogromia latticollaris
+Psammophaga sp. DZAB-2010
+Foraminifera sp. IV-2014
+Notodendroides hyalinosphaira
+Notodendrodes antarkticos
+Astrorhiza triangularis
+Lituolaceae
+Allogromiina 46
+Allogromiina 29
+Quinquloculininae
+Rotalia spiculotesta
+Elphidium clavtum
+Elphidium albiumbilicatum
+uncultured Elphidium sp.
+Heterostegina longisepta
+Angulodiscrobis
+Cibicides sp. MH-2015
+Cibicides pachydermus
+Cibicides sp. S. Bowser 2524
+Reticulomyxidae sp. CW-2012
+Reticulomyxa filos
+Pseudowebbinella goesi
+Xenophyophorea sp. BBL-2008
+Cibicides subhaidingeri
+Heterolepa subhaidingeri
+Cibicides lobatulus
+Lobatula lobatula
+Nautilus lobatulus
+Truncatulina lobatula
+Anomalina wuellerstorfi
+Fontbotia wuellerstorfi
+Planulina wuellerstorfi
+Truncatulina wuellerstorfi
+Rotalina ungeriana
+Truncatulina ungeriana
+'Planorbulina' variabilis
+Cibicidella variabilis
+Cibicides variabilis
+Planorbulina variabilis
+Truncatulina variabilis
+Cibicides dispars
+Truncatulina dispars
+Ammonia sp. T2
+Ammonia sp. T1
+Ammonia sp. T6
+Ammonia sp. T7
+Rotaliella sp. Pawlowski 1002
+Discorbina imperatoria var. globosa
+Pararotalia globosa
+Murrayinella sp. 10 MH-2016
+Murrayinella sp. 11 MH-2016
+Murrayinella sp. 12 MH-2016
+Murrayinella sp. 7 MH-2016
+Murrayinella sp. 8 MH-2016
+Murrayinella sp. 9 MH-2016
+Nuttalides sp. 13251
+Nuttalides sp. 13254
+Nuttalides sp. 13256
+nuttalides sp. 13252
+Planorbulinella sp. Pawlowski 358
+Planorbulinella sp. isolate 358
+Hyalinea baltica
+Glabratella opercularis
+Rosalina opercularis
+Angulodiscrobis quadrangularis
+Rossyatella sp. Pawlowski 3953
+Rosalina sp. J. Guiard 3675
+Rosalina sp. isolate 3675
+Rotaliina sp. J. Guiard 3675
+Discorbina praegeri
+Discorbis praegeri
+Rosalina praegeri
+Cancris auricula
+Buliminoides sp. Holzmann 623
+Nonion labradoricum
+Nonionellina labradorica
+Nonionina labradorica
+Nonionina scapha var. labradorica
+Nonionella grateloupi
+Nonionoides grateloupi
+Nonionella turgida
+Melonis barleanum
+Melonis barleeanum
+Nonionina barleeana
+Oridorsalis umbonata
+Rotalina umbonata
+Cassidulina subglobosa
+Islandiella sp. J. Pawlowski 2643
+Rectuvigerina phlegeri
+Angulogerina earlandi
+Uvigerina earlandi
+Bolivina sp. Pawlowski 2341
+Globigerina rubescens
+Globigerina quinqueloba
+Globigerina digitata
+Menardella menardii
+Rotalia menardii
+Globigerina inflata
+Globoconella inflata
+Globorotalia (Truncorotalia) truncatulinoides
+Truncorotalia truncatulinoides
+Stainforthia concava
+Reophax scotti
+Eggerelloides scabrum
+Eggerelloides scabrus
+Eggereloides scabrum
+Amphisorus kudakaijamaensis
+Marginopora kudakajimaensis
+Marginopora kudakajimensis
+Bulimina marginata forma marginata
+Bulimina marginata forma denudata
+Textularia gramen
+foraminifers
+environmental samples
+Toxisarcon sp. 1 IVo-2013
+Patellina
+Operculina
+Allogromiina A 1182
+Allogromiina A 664
+Allogromiina A136
+Allogromiina A 131
+Allogromiina A 119
+Allogromiina A 121
+Allogromiina 50
+Allogromiina 26
+Allogromiina 27
+Allogromiina 33
+Allogromiina 52
+Allogromiina 51
+Allogromiina 6
+Reticulomyxidae sp. MD-2012

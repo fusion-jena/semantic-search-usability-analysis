@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset xmlns="urn:pangaea.de:dataportals" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:pangaea.de:dataportals http://ws.pangaea.de/schemas/pansimple/pansimple.xsd">
+  <dc:title>Galium mollugo agg., a human observation record of the Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria dataset [ID: 6932217 / 5335992 ]</dc:title>
+  <dc:description>https://wiki.bayernflora.de/web/Flora_of_Bavaria_%E2%94%80_occurrence_data_online</dc:description>
+  <dc:contributor>AG Flora von Bayern</dc:contributor>
+  <dc:contributor>SNSB</dc:contributor>
+  <dc:contributor>Staatliche Naturwissenschaftliche Sammlungen Bayerns – SNSB IT Center, München</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Bayernatlas-Daten</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:contributor>Stein, G.</dc:contributor>
+  <dc:publisher>Data Center SNSB</dc:publisher>
+  <dataCenter>Data Center SNSB</dataCenter>
+  <dc:type>ABCD_Unit</dc:type>
+  <dc:type>human observation</dc:type>
+  <dc:format>text/html</dc:format>
+  <dc:identifier>6932217 / 5335992</dc:identifier>
+  <dc:source>AG Flora von Bayern (2020). Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria. [Dataset]. Version: 20200629. Data Publisher: Staatliche Naturwissenschaftliche Sammlungen Bayerns – SNSB IT Center, München. https://www.bayernflora.de/web/Flora_von_Bayern_%E2%94%80_Verbreitungsdaten_online.</dc:source>
+  <linkage type="metadata">http://biocase.snsb.info/wrapper/querytool/details.cgi?dsa=BFLportal01coll&amp;detail=unit&amp;wrapper_url=http://biocase.snsb.info/wrapper/pywrapper.cgi?dsa=BFLportal01coll&amp;schema=http://www.tdwg.org/schemas/abcd/2.06&amp;inst=BFL&amp;col=BFLportal01coll&amp;cat=6932217 / 5335992</linkage>
+  <dc:coverage xsi:type="CoverageType">
+    <northBoundLatitude>50.32</northBoundLatitude>
+    <westBoundLongitude>11.71</westBoundLongitude>
+    <southBoundLatitude>50.32</southBoundLatitude>
+    <eastBoundLongitude>11.71</eastBoundLongitude>
+    <startDate>1945</startDate>
+    <endDate>1945</endDate>
+  </dc:coverage>
+  <dc:subject type="kingdom" xsi:type="SubjectType">Plantae</dc:subject>
+  <dc:subject type="taxonomy" xsi:type="SubjectType">Galium mollugo agg.</dc:subject>
+  <dc:subject type="parameter" xsi:type="SubjectType">Date</dc:subject>
+  <dc:subject type="parameter" xsi:type="SubjectType">Longitude</dc:subject>
+  <dc:subject type="parameter" xsi:type="SubjectType">Latitude</dc:subject>
+  <dc:rights>CC BY 4.0</dc:rights>
+  <dc:relation>https://www.bayernflora.de/web/Flora_von_Bayern_%E2%94%80_Verbreitungsdaten_online</dc:relation>
+  <dc:relation>JME-ETT-02750 / 632601 / 290150</dc:relation>
+  <parentIdentifier>urn:gfbio.org:abcd:2_32_67</parentIdentifier>
+  <additionalContent>http://id.snsb.info/bfl/collection_bayernflora/6932217/5335992, BFL, BFLportal01coll, 6932217 / 5335992, 2019-10-11T13:59:11.593000, Plantae, regnum, Galium mollugo agg., HumanObservation, human observation, 1945, Bayernatlas-Daten, Germany, BRD, 11.71, 50.32, WGS84, Bayernatlas-Daten, Floristischer Status, (Analysis 1), *, Floristischer Status, https://wiki.bayernflora.de/web/Flora_of_Bavaria:_floristic_status, Bayernatlas-Daten, Floristischer Status, (Analysis 2), *, Floristischer Status, https://wiki.bayernflora.de/web/Flora_of_Bavaria:_floristic_status, http://biocase.snsb.info/wrapper/querytool/details.cgi?dsa=BFLportal01coll&amp;detail=unit&amp;wrapper_url=http://biocase.snsb.info/wrapper/pywrapper.cgi?dsa=BFLportal01coll&amp;schema=http://www.tdwg.org/schemas/abcd/2.06&amp;inst=BFL&amp;col=BFLportal01coll&amp;cat=6932217 / 5335992 </additionalContent>
+</dataset>

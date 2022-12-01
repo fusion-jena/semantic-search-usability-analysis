@@ -1,0 +1,13 @@
+('plant traits' <http://purl.obolibrary.org/obo/PPO_0002000> <http://purl.obolibrary.org/obo/TO_0000387>) + (precipitation <http://purl.obolibrary.org/obo/ENVO_01001363> <http://purl.obolibrary.org/obo/OBI_0600034> <http://purl.obolibrary.org/obo/REX_0000182>) + (grazing <http://purl.obolibrary.org/obo/ECOCORE_00000139>)
+(mesopelagic <http://purl.obolibrary.org/obo/ENVO_00000213> fish <http://purl.obolibrary.org/obo/NCBITaxon_7776>) + (cyclothone <http://purl.obolibrary.org/obo/NCBITaxon_48440>)
+(variable <http://purl.obolibrary.org/obo/PATO_0001227>) + (oxygen <http://purl.obolibrary.org/obo/CHEBI_15379> concentration <http://purl.obolibrary.org/obo/PATO_0000033>) + (sea water <http://purl.obolibrary.org/obo/ENVO_00002149>) + (mesopelagic zone <http://purl.obolibrary.org/obo/ENVO_00000213>) + (ocean <http://purl.obolibrary.org/obo/ENVO_00000015>)
+('invasive grasses') OR (Poaceae <http://purl.obolibrary.org/obo/NCBITaxon_38820> <http://purl.obolibrary.org/obo/NCBITaxon_4479>)
+(Thysanoptera <http://purl.obolibrary.org/obo/NCBITaxon_30262>) + (sunflowers <http://purl.obolibrary.org/obo/NCBITaxon_4231>)
+(Ocean <http://purl.obolibrary.org/obo/ENVO_00000015> acidification <http://purl.obolibrary.org/obo/GO_0045851>) + ('coral bleaching' <http://purl.obolibrary.org/obo/ENVO_01000852>)
+('microbial activities' <http://purl.obolibrary.org/obo/NCBITaxon_2> <http://purl.obolibrary.org/obo/NCBITaxon_2759>) + (groundwater <http://purl.obolibrary.org/obo/ENVO_01001004>)?
+'root length' <http://purl.obolibrary.org/obo/FLOPO_0009325> <http://purl.obolibrary.org/obo/TO_0000227> 
+(butterflies <http://purl.obolibrary.org/obo/NCBITaxon_7088>) + (oaks <http://purl.obolibrary.org/obo/NCBITaxon_38942>)
+'surface water' <http://purl.obolibrary.org/obo/ENVO_00002042>
+(foraminifera <http://purl.obolibrary.org/obo/NCBITaxon_29178>) + (benthic <http://purl.obolibrary.org/obo/ENVO_01000105>)
+('leaf area index' <http://purl.obolibrary.org/obo/TO_0012001>) + diversity
+('sulfate reduction' <http://purl.obolibrary.org/obo/GO_0019419>) + ('cold seeps' <http://purl.obolibrary.org/obo/ENVO_01000263>) 

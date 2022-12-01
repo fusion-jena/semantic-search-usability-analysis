@@ -1,0 +1,9 @@
+label
+variant
+decreased variability
+increased variability
+fluctuating
+normal variability
+variable
+low variability
+high variability

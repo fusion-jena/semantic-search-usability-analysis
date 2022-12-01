@@ -1,0 +1,56 @@
+import gate.creole.ANNIEConstants
+import gate.mimir.SemanticAnnotationHelper.Mode
+import gate.mimir.index.OriginalMarkupMetadataHelper
+import gate.mimir.db.DBSemanticAnnotationHelper as DefaultHelper
+import gate.mimir.sparql.SPARQLSemanticAnnotationHelper as SPARQLHelper
+import gate.mimir.util.DocumentFeaturesMetadataHelper
+import gate.mimir.sparql.RequestMethod as RM
+
+tokenASName = ""
+tokenAnnotationType = ANNIEConstants.TOKEN_ANNOTATION_TYPE
+tokenFeatures = {
+  string()
+  category()
+  root()
+}
+
+def standardHelper (type) {
+return new SPARQLHelper (
+sparqlEndpoint :'http://gfbio-git.inf-bb.uni-jena.de/graphDB/repositories/BIODIV',
+sparqlRequestMethod:RM. POST_ENCODED,
+queryPrefix :
+'PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>\
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>\
+PREFIX owl:<http://www.w3.org/2002/07/owl#>\
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>',
+delegate:new DefaultHelper(annType:type, textFeatures:["start","end"], uriFeatures:["inst","broader"])
+)
+}
+
+semanticASName = "BIODIV"
+semanticAnnotations = {
+index{
+annotation helper : standardHelper ('Environment')
+annotation helper : standardHelper ('Organism')
+annotation helper : standardHelper ('Quality')
+annotation helper : standardHelper ('Material')
+annotation helper : standardHelper ('Process')
+}
+
+ index {
+ annotation helper:new DefaultHelper(annType:'Token.Root')
+ annotation helper:new DefaultHelper(annType:'Person',nominalFeatures:["gender", "title"],textFeatures:["name"])
+ annotation helper:new DefaultHelper(annType:'Location',nominalFeatures:["locType", "continent"])
+ annotation helper:new DefaultHelper(annType:'Organization',nominalFeatures:["orgType"])
+ annotation helper:new DefaultHelper(annType:'Date',integerFeatures:["normalized"])
+ annotation helper:new DefaultHelper(annType:'Document',integerFeatures:["date"], mode:Mode.DOCUMENT)
+ }
+}
+
+documentRenderer = new OriginalMarkupMetadataHelper()
+documentFeaturesHelper = new DocumentFeaturesMetadataHelper("title","citation","description","docId","dataCenter","taxon","parameters","minLongitude","maxLongitude","minLatitude","maxLatitude","dataType","access","collectionStartDate","collectionEndDate","publicationDate","author","contributor","keywords","relatedDatasets","linkage","additionalContent")
+documentMetadataHelpers = [documentRenderer,documentFeaturesHelper]
+
+// miscellaneous options - these are the defaults
+//timeBetweenBatches = 5.minutes
+//maximumBatches = 20

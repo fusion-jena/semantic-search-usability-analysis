@@ -1,0 +1,11 @@
+label
+sulfate reduction
+sulfate assimilation via adenylyl sulfate reduction
+"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
+dissimilatory sulfate reduction
+bisulfite reduction
+sulphate reduction
+sulphate assimilation via adenylyl sulphate reduction
+"sulphate assimilation, phosphoadenylyl sulphate reduction by a phosphoadenylyl-sulphate reductase (thioredoxin)"
+dissimilatory sulphate reduction
+bisulphite reduction
