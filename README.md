@@ -1,6 +1,14 @@
 # Supplementary material on a usability study for a semantic dataset search
 
-<ToDo> short intro on the user study
+We conducted a usability evaluation for a semantic dataset search with 20 biodiversity scholars in June and July 2022 in Germany. 
+The research aim addressed two objectives:
+
+1. we explored two query inputs (A/B testing) and 
+2. we studied two different explanations strategies in the search summary to examine whether users are confused or attracted by presented semantic information such as URIs and ontologies. 
+
+We developed a semantic search over biological datasets with two user interfaces (UI) with different characteristics. The search expands query terms on semantically related terms and allows a search over hierarchy relations. UI 1 (Biodiv 1) provides a category, form-based search input with no information on utilized ontologies. UI 2 (Biodiv 2) offers a classical one input field and in the search summary, it provides links to matched URIs and ontologies. 
+
+Following the TREC guidelines (https://www-nlpir.nist.gov/projects/t9i/spec.html), we setup eight user tasks and surveys with questionnaires to guide users through the evaluation.
 
 * the analysis folder contains a jupyter notebook to analyse a compiled csv
 * analysis/results16  contains the results for 16 users
@@ -18,7 +26,7 @@ jupyter notebook
 
 ## Data
 
-primary data available at Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388038.svg)](https://doi.org/10.5281/zenodo.7388038)
+The survey templates and the original survey results are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388038.svg)](https://doi.org/10.5281/zenodo.7388038)
 
 ## License
 
