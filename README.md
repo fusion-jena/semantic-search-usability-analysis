@@ -10,10 +10,10 @@ We developed a semantic search over biological datasets with two user interfaces
 
 Following the TREC guidelines (https://www-nlpir.nist.gov/projects/t9i/spec.html), we setup eight user tasks and surveys with questionnaires to guide users through the evaluation.
 
-* the analysis folder contains a jupyter notebook to analyse a compiled csv
-* analysis/results16  contains the results for 16 users
-* analysis/results20  contains the results for 20 users
-* scripts to generate the complied csv and further instructions are available under analysis/preprocessing
+* the [analysis](https://github.com/fusion-jena/semantic-search-usability-analysis/tree/main/analysis) folder contains a jupyter notebook to analyse a compiled csv
+  * analysis/results16  contains the results for 16 users
+  * analysis/results20  contains the results for 20 users
+  * scripts to generate the complied csv and further instructions are available under analysis/preprocessing
 
 ## Prerequites
 
