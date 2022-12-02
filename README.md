@@ -1,4 +1,4 @@
-# Supplementary material on a usability study for a semantic dataset search
+# Supplementary material for a usability evaluation of a semantic search for biological datasets
 
 We conducted a usability evaluation for a semantic dataset search with 20 biodiversity scholars in June and July 2022 in Germany. 
 The research aim addressed two objectives:
