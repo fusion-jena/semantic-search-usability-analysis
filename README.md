@@ -1,5 +1,7 @@
 # Supplementary material for a usability evaluation of a semantic search for biological datasets
 
+[![DOI](https://zenodo.org/badge/572698150.svg)](https://zenodo.org/badge/latestdoi/572698150)
+
 We conducted a usability evaluation for a semantic dataset search with 20 biodiversity scholars in June and July 2022 in Germany. 
 The research aim addressed two objectives:
 
