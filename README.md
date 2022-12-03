@@ -29,7 +29,7 @@ jupyter notebook
 
 ## Data
 
-The survey templates and the original survey results are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388037.svg)](https://doi.org/10.5281/zenodo.7388037)
+The survey templates, questionnaires and the original survey results are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388037.svg)](https://doi.org/10.5281/zenodo.7388037)
 
 ## License
 
