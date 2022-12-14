@@ -31,6 +31,17 @@ jupyter notebook
 
 The survey templates, questionnaires and the original survey results are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7388037.svg)](https://doi.org/10.5281/zenodo.7388037)
 
+## Search Tasks
+
+1. What data are in the repository for Foraminifera (forams, single-cell organisms) in the benthic zone (water layer in the ocean floor)? 
+2. How variable is the oxygen concentration of sea water of the global ocean? 
+3. What data exist for Poales (invasive grasses), e.g., Poaceae (grass family)? 
+4. How high are sulfate reduction rates at cold seeps (cold vents, areas in the ocean floor where hydrocarbon-rich fluids are leaking)? 
+5. What data are in the repository on ocean acidification or coral bleaching? 
+6. What data exist in the repository for bacteria in the groundwater? 
+7. What data exist for Lepidoptera (butterflies, moths) on oaks (Quercus)? 
+8. What data in the repository contain samples from surface water?
+
 ## License
 
 The code in this project is distributed under the terms of the [GNU LGPL v3.0.](https://www.gnu.org/licenses/lgpl-3.0.en.html)
