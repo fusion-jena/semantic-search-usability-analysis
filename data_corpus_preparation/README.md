@@ -9,6 +9,10 @@ For our evaluation, we utilized various applications and scripts for the downloa
 4. For faster annotation and indexing, small thread pipelines are provided in [AnnotateGFBioCorpus](https://github.com/fusion-jena/semantic-search-usability-analysis/tree/main/data_corpus_preparation/AnnotateGFBioCorpus) and [ParallelIndexing](https://github.com/fusion-jena/semantic-search-usability-analysis/tree/main/data_corpus_preparation/ParallelIndexing).
 5. Folder [SearchIndex](https://github.com/fusion-jena/semantic-search-usability-analysis/tree/main/data_corpus_preparation/SearchIndex) contains the index file for a [GATE Mìmir index](https://github.com/GateNLP/mimir)
 
+## Text mining pipelines
+
+The extended BiodivTagger and the OrganismTagger pipelines, which were utilized for this evaluation, are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7438208.svg)](https://doi.org/10.5281/zenodo.7438208
+
 ## Prerequisites
 
 All JAVA code has been implemented with JAVA 1.8 and Maven > 3.8. All Python scripts were developed with Python 3.8
