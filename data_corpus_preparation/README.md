@@ -11,7 +11,7 @@ For our evaluation, we utilized various applications and scripts for the downloa
 
 ## Text mining pipelines
 
-The extended BiodivTagger and the OrganismTagger pipelines, which were utilized for this evaluation, are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7438208.svg)](https://doi.org/10.5281/zenodo.7438208
+The extended BiodivTagger and the OrganismTagger pipelines, which were utilized for this evaluation, are available at Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7438208.svg)](https://doi.org/10.5281/zenodo.7438208)
 
 ## Prerequisites
 
