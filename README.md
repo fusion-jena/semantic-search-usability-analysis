@@ -47,6 +47,7 @@ The survey templates, questionnaires and the original survey results are availab
 The code in this project is distributed under the terms of the [GNU LGPL v3.0.](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
 ## Publication
-Further information on this study can be obtained from our publication: XXX
+Further information on this study can be obtained from our publication:
+Löffler, F., Shafiei, F., Witte, R., König-Ries, B. & Klan, F., (2023). Semantic Search for Biological Datasets: A Usability Study on Modes of Querying and Explaining Search Results. In: König-Ries, B., Scherzinger, S., Lehner, W. & Vossen, G. (Hrsg.), BTW 2023. Gesellschaft für Informatik e.V.. [DOI: 10.18420/BTW2023-56](https://dx.doi.org/10.18420/BTW2023-56)
 
 
